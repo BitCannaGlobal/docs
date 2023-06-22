@@ -6,6 +6,9 @@ description: >-
 
 # Available tools
 
+EDIT 22-06-2023:\
+We have created a link between our Github and our Gitbook (this page) showing all the services available for our chain. In the coming weeks we will be creating a guide for this and open it up for validators to keep the information up-to-date. This will also have the positive effect that the updates to the delegation program will be faster, since less information needs to be collected.
+
 ### Wallet
 
 [https://wallet.bitcanna.io/](https://wallet.bitcanna.io/)\
