@@ -1,4 +1,5 @@
 # CosmosClub AMA 13-06-2023
+Test
 
 On 13–06–2023 we had an Ask-Me-Anything with [CosmosClub](https://linktr.ee/cosmosclub\_). This AMA is available to listen via [Twitter Spaces](https://twitter.com/CosmosClub\_/status/1667450986825232385), [Spotify](https://open.spotify.com/episode/6IgbtQN7MigQaEQ8AuVIwf?si=5904c870c48c47cc) and their [Youtube channel](https://youtu.be/tiVpJ0u7IFE). Also a [Twitter thread around BitCanna](https://twitter.com/CosmosClub\_/status/1668641883315396609?t=c2UWE0-9fZA8qL3bk46KUg\&s=19) was created.
 
