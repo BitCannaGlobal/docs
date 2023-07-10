@@ -25,6 +25,7 @@
 ## Tools
 
 * [Available tools](tools/available-tools.md)
+* [Copy of Available tools](tools/available-tools-1.md)
 
 ## ❓ FAQ
 
