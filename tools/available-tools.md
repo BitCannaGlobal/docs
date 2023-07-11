@@ -141,7 +141,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 
 ### Testnet tools
 
-|                              |                                                                                                                                                                                                          |
+| Description                  | Link                                                                                                                                                                                                     |
 | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wallet                       | [https://wallet-testnet.bitcanna.io/welcome](https://wallet-testnet.bitcanna.io/welcome)                                                                                                                 |
 | Explorer                     | [https://testnet.ping.pub/bitcanna/staking](https://testnet.ping.pub/bitcanna/staking)                                                                                                                   |
