@@ -9,7 +9,7 @@
 * [Slashing](concepts-and-terminology/slashing.md)
 * [Governance](concepts-and-terminology/governance.md)
 
-## 🕵♂ 🕵♂ Token Economics & Parameters <a href="#token-chain-parameters" id="token-chain-parameters"></a>
+## 🕵♂ 🕵♂ 🕵♂ Token Economics & Parameters <a href="#token-chain-parameters" id="token-chain-parameters"></a>
 
 * [Token Economics](token-chain-parameters/token-economics.md)
 * [Chain Parameters](token-chain-parameters/chain-parameters.md)
@@ -25,7 +25,6 @@
 ## Tools
 
 * [Available tools](tools/available-tools.md)
-* [Copy of Available tools](tools/available-tools-1.md)
 
 ## ❓ FAQ
 
