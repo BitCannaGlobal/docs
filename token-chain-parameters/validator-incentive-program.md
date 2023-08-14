@@ -78,7 +78,7 @@ For our current delegation program running from June 2023, we have in total a de
 * Statesync (40k BCNA delegation)
 * Archive nodes (750k BCNA delegation)
 * RPC nodes (40k BCNA delegation)
-* Relayers (200 BCNA delegation per channel)
+* Relayers (200k BCNA delegation per channel)
 
 After substracting the delegation amount required to reward these services, we distribute the remaining delegation budget over the rest of the services. This is done by giving points for each service. A “Yes” gets 1 point, a “Small” gets 0.5 point, a “Medium” gets 1 point, a “Large” gets 1.5 point and the Innovation tag gets 0.1 point. In our current execution 1 point is worth a delegation of 216462.59 BCNA. This means that:
 
