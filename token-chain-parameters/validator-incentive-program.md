@@ -147,4 +147,6 @@ Note that the amount of $BCNA per earned point can change based on the amount of
 | ping.pub                                    | Wallet (Large), Explorer (Large)                                                                                        | 649387,7551               |
 | MultVR                                      | Testnet node                                                                                                            | 216462.59                 |
 | StakePool                                   | Tech support (Medium), Statesync, RPC node                                                                              | 296462.59                 |
+| SmartNodes                                  | Marketing (Medium)                                                                                                      | 216462.59                 |
+| WIS                                         | Marketing (Medium)                                                                                                      | 216462.59                 |
 
