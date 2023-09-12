@@ -40,7 +40,7 @@ The services we recognize are described below. Per category the description of t
   * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
 * Seednodes
   * Description: providing an seednode used by other nodes to find peers
-  * Prerequisite: accessible URL, tx-index = on, node needs to be synced. Note; these should not be run from your validator node for security reasons.
+  * Prerequisite: accessible URL, node needs to be synced. Note; these should not be run from your validator node for security reasons.
   * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
 * Relayers
   * Description: running relayers between chains which are relevant for BitCanna, enabling IBC transactions. This can either be on mainnet or on the testnet, if applicable
