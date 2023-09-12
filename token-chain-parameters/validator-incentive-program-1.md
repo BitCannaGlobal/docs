@@ -33,7 +33,7 @@ The services we recognize are described below. Per category the description of t
 * Archive nodes
   * Description: providing an unpruned database of the blockchain history
   * Prerequisite: approachable via a link, should contain all blocks from the beginning, database must be unpruned
-  * Obtained from: Google Form for validator submissions
+  * Obtained from: Google Form for validator submissions, will be put into the chain registry file on Github (link to be included)
 * Public RPC nodes
   * Description: providing an RPC node where queries can be made to obtain data from the blockchain
   * Prerequisite: accessible URL, tx-index = on, node needs to be synced. Note; these should not be run from your validator node for security reasons.
