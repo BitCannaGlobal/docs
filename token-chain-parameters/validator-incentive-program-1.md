@@ -40,7 +40,7 @@ The services we recognize are described below. Per category the description of t
   * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
 * Seednodes
   * Description: providing an seednode used by other nodes to find peers
-  * Prerequisite: accessible URL, node needs to be synced. Note; these should not be run from your validator node for security reasons.
+  * Prerequisite: accessible address, node needs to be synced. Note; these should not be run from your validator node for security reasons.
   * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
 * Relayers
   * Description: running relayers between chains which are relevant for BitCanna, enabling IBC transactions. This can either be on mainnet or on the testnet, if applicable
@@ -86,6 +86,12 @@ Every 4 months (so 3 times per year; in January, May and September) we will revi
 The input received will be assessed and included in the program if approved. Results for the most recent round can be found below.
 
 Note that the amount of $BCNA per earned point can change based on the amount of service providers. So even though your services offered might remain the same, the delegation amount can go up (a bit) or down (a bit) based on the total amount of points rewarded for the services offered by all validators.
+
+### Disclaimer
+
+BitCanna holds the right to review the delegations on other moments besides the aforementioned 3x per year (every 4 months). A script is created which checks the services included in the file on Github to check liveliness and responsivess as well as meeting other requirements like for example running the services on non-validator nodes. This will also apply for services like marketing; long periods of non-compliance with the requirements will have consequences for the delegation.\
+\
+It can also work the other way around; exceeding expectations can lead to larger delegations.
 
 ### Current delegations&#x20;
 
