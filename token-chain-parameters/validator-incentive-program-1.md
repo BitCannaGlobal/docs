@@ -9,11 +9,11 @@ The services we recognize are described below. Per category the description of t
 * Wallet
   * Description: providing a wallet where users can manage their funds
   * Prerequisite: free validator choice, users should control their own private keys, code should be open-source
-  * Obtained from: [Github](../tools/available-tools.md#wallet)
+  * Obtained from: [Github](../tools/available-tools.md#wallet) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
 * Explorer
   * Description: providing an explorer to be used to see wallet balances and block history
   * Prerequisite: using own resources (e.g. LCD endpoints. Note; these should not be run from your validator for security reasons), being able to load all blocks from block 1 to the actual block height (the database may not be pruned)
-  * Obtained from: [Github](../tools/available-tools.md#explorer)
+  * Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
 * Technical support
   * Description: providing technical support in our Discord channels with fellow validators and the team
   * Prerequisite: quality and amount of the support
@@ -25,11 +25,11 @@ The services we recognize are described below. Per category the description of t
 * Snapshots
   * Description: providing snapshots to be able to bootstrap a node on the BitCanna network quickly
   * Prerequisite: working link, instruction how to use the snapshot included
-  * Obtained from: [Github](../tools/available-tools.md#snapshot)
+  * Obtained from: [Github](../tools/available-tools.md#snapshot) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
 * Statesync
   * Description: providing instruction and method how to statesync a node on the BitCanna network
   * Prerequisite: working link, instruction how to statesync or use the script included
-  * Obtained from: [Github](../tools/available-tools.md#statesync)
+  * Obtained from: [Github](../tools/available-tools.md#statesync) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
 * Archive nodes
   * Description: providing an unpruned database of the blockchain history
   * Prerequisite: approachable via a link, should contain all blocks from the beginning, database must be unpruned
@@ -37,11 +37,11 @@ The services we recognize are described below. Per category the description of t
 * Public RPC nodes
   * Description: providing an RPC node where queries can be made to obtain data from the blockchain
   * Prerequisite: accessible URL, tx-index = on, node needs to be synced. Note; these should not be run from your validator node for security reasons.
-  * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
+  * Obtained from: [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json)
 * Seednodes
   * Description: providing an seednode used by other nodes to find peers
   * Prerequisite: accessible address, node needs to be synced. Note; these should not be run from your validator node for security reasons.
-  * Obtained from: [Github](https://github.com/cosmos/chain-registry/blob/master/bitcanna/chain.json)
+  * Obtained from: [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json)
 * Relayers
   * Description: running relayers between chains which are relevant for BitCanna, enabling IBC transactions. This can either be on mainnet or on the testnet, if applicable
   * Prerequisite: active relayer, supporting the right channels, involved in the dedicated Discord group for relayers, relayer address shared with the team, relayer address should show recent IBC transactions in the past 7 days. More active relayers are rewarded higher.
