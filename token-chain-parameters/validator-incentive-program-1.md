@@ -4,7 +4,9 @@ The BitCanna chain is supporting the network and the services of BitCanna. Curre
 
 ### Categories recognized as services for BitCanna
 
-The services we recognize are described below. Per category the description of the service is given and the prerequisite we use to assess eligibility. Services can be rewarded for testnet and mainnet services separately.
+The services we recognize are described below. Per category the description of the service is given and the prerequisite we use to assess eligibility. Services can be rewarded for testnet and mainnet services separately.&#x20;
+
+For the testnet we recognize explorers, testnet nodes, snapshots, statesync, public RPC nodes, seednodes. The delegation per offered service on the testnet is half (50%) of the same service offered on the mainnet.
 
 * Wallet
   * Description: providing a wallet where users can manage their funds
