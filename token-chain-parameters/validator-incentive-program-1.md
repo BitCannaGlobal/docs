@@ -10,7 +10,7 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
 
 * Wallet
   * Description: providing a wallet where users can manage their funds
-  * Prerequisite: free validator choice, users should control their own private keys, code should be open-source
+  * Prerequisite: free validator choice, users should control their own private keys, code should be open-source, wallet needs to be dedicated (so not in combination with an explorer like a fork of ping.pub)
   * Obtained from: [Github](../tools/available-tools.md#wallet) (our docs page)
 * Explorer
   * Description: providing an explorer to be used to see wallet balances and block history
