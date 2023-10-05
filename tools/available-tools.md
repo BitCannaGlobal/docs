@@ -27,6 +27,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
 [https://explorer.moonbys.com](https://explorer.moonbys.com)
 [https://explorer.indonode.net/bitcanna](https://explorer.indonode.net)
+[https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
 
 ### Snapshot
 
@@ -85,7 +86,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://www.alkia.net/state-sync-for-bitcanna](https://www.alkia.net/state-sync-for-bitcanna)\
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)
+[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
+[https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)
 
 ### Submitting proposals
 
