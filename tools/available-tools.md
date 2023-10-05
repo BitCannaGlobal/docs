@@ -28,6 +28,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
 [https://explorer.moonbys.com](https://explorer.moonbys.com)
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/)\
+[https://explorer.moonbys.com](https://explorer.moonbys.com)\
+[https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
 
 ### Snapshot
 
@@ -42,7 +44,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
 [https://stakepool.dev.br/snapshots.html](https://stakepool.dev.br/snapshots.html)\
 [https://genznodes.dev/mainnet/bitcanna/snapshot/](https://genznodes.dev/mainnet/bitcanna/snapshot/)\
-[https://www.indonode.net/mainnet/bitcanna/snapshot](https://www.indonode.net/mainnet/bitcanna/snapshot)\
+[https://docs.indonode.net/mainnet/bitcanna/snapshot](https://docs.indonode.net/mainnet/bitcanna/snapshot)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md)\
@@ -55,7 +57,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
 [https://anode.team/BitCanna/](https://anode.team/BitCanna/)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
-[https://docs.indonode.net/mainnet/bitcanna/snapshot](https://docs.indonode.net/mainnet/bitcanna/snapshot)
+[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
+[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)
 
 ### Statesync
 
@@ -75,7 +78,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.safeblock.space/bitcanna/statesync](https://explorer.safeblock.space/bitcanna/statesync)\
 [https://stakeme.io/services/state-sync/bitcanna/](https://stakeme.io/services/state-sync/bitcanna/)\
 [https://genznodes.dev/mainnet/bitcanna/statesync/](https://genznodes.dev/mainnet/bitcanna/statesync/)\
-[https://www.indonode.net/mainnet/bitcanna/statesync](https://www.indonode.net/mainnet/bitcanna/statesync)\
+[https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
 [https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md)\
@@ -88,7 +91,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
-[https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)
+[https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)
 
 ### Submitting proposals
 
@@ -146,6 +149,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Upgrade guide                                                                                                            | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update)                                                                                                                                                                                                  |
 | Upgrade guide                                                                                                            | [https://docs.indonode.net/mainnet/bitcanna/upgrade](https://docs.indonode.net/mainnet/bitcanna/upgrade)
+
 ### Testnet tools
 
 | Description                  | Link                                                                                                                                                                                                     |
