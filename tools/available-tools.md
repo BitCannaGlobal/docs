@@ -16,6 +16,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.kalia.network/wallet/](https://explorer.kalia.network/wallet/)\
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna)\
 [https://explorer.konsortech.xyz/bitcanna/staking](https://explorer.konsortech.xyz/bitcanna/staking)\
+[https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking)\
 [Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)
 
 ### Explorer
@@ -25,8 +26,9 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://ping.pub/bitcanna](https://ping.pub/bitcanna)\
 [https://explorer.kjnodes.com/bitcanna](https://explorer.kjnodes.com/bitcanna)\
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
+[https://explorer.moonbys.com](https://explorer.moonbys.com)
+[https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/)\
 [https://explorer.moonbys.com](https://explorer.moonbys.com)\
-[https://explorer.indonode.net/bitcanna](https://explorer.indonode.net)\
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
 
 ### Snapshot
@@ -54,6 +56,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://docs.kalia.network/mainnet/bitcanna/snapshot](https://docs.kalia.network/mainnet/bitcanna/snapshot)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
 [https://anode.team/BitCanna/](https://anode.team/BitCanna/)\
+[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)
 
@@ -145,6 +148,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Node / validator setup guide                                                                                             | [https://docs.indonode.net/mainnet/bitcanna/installation](https://docs.indonode.net/mainnet/bitcanna/installation)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update)                                                                                                                                                                                                  |
+| Upgrade guide                                                                                                            | [https://docs.indonode.net/mainnet/bitcanna/upgrade](https://docs.indonode.net/mainnet/bitcanna/upgrade)
 
 ### Testnet tools
 
