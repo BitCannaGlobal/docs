@@ -25,7 +25,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://ping.pub/bitcanna](https://ping.pub/bitcanna)\
 [https://explorer.kjnodes.com/bitcanna](https://explorer.kjnodes.com/bitcanna)\
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
-[https://explorer.moonbys.com](https://explorer.moonbys.com)
+[https://explorer.moonbys.com](https://explorer.moonbys.com)\
+[https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
 
 ### Snapshot
 
@@ -84,7 +85,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://www.alkia.net/state-sync-for-bitcanna](https://www.alkia.net/state-sync-for-bitcanna)\
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)
+[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
+[https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)
 
 ### Submitting proposals
 
@@ -101,7 +103,10 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Delegation statistics                                                                   | [https://bc.paranorm.pro/monitor](https://bc.paranorm.pro/monitor)                                                                                                                                                                                                                                                                                                                                                |
 | Tokenomics, chain parameters, node decentralization map                                 | [https://nodejumper.io/bitcanna](https://nodejumper.io/bitcanna)                                                                                                                                                                                                                                                                                                                                                  |
 | Bitcanna mainnet analytics and visualization                                            | [https://dapplooker.com/dashboard/bitcanna-mainnet-dashboard-41](https://dapplooker.com/dashboard/bitcanna-mainnet-dashboard-41)                                                                                                                                                                                                                                                                                  |
-| IBC transfers data, Github developers' activities, validators statistics, price changes | <p><a href="https://hub.mintscan.io/chains/monitorhttps://hub.mintscan.io/validators/ecosystemhttps://hub.mintscan.io/chains/dev-activity/org?c=bitcannahttps://hub.mintscan.io/chains/ibc-network">https://hub.mintscan.io/chains/monitor<br>https://hub.mintscan.io/validators/ecosystem<br>https://hub.mintscan.io/chains/dev-activity/org?c=bitcanna<br>https://hub.mintscan.io/chains/ibc-network</a></p> |
+| IBC transfers data, Github developers' activities, validators statistics, price changes | <p><a href="https://hub.mintscan.io/chains/monitorhttps://hub.mintscan.io/validators/ecosystemhttps://hub.mintscan.io/chains/dev-activity/org?c=bitcannahttps://hub.mintscan.io/chains/ibc-network">https://hub.mintscan.io/chains/monitor
+<br>https://hub.mintscan.io/validators/ecosystem
+<br>https://hub.mintscan.io/chains/dev-activity/org?c=bitcanna
+<br>https://hub.mintscan.io/chains/ibc-network</a></p> |
 | Exposed RPC ports on validators                                                         | [https://polkachu.com/network\_scans/bitcanna](https://polkachu.com/network\_scans/bitcanna)                                                                                                                                                                                                                                                                                                                      |
 | Exposed RPC ports on validators                                                         | [https://cosmowiz.com/networks/BitcannaNetwork](https://cosmowiz.com/networks/BitcannaNetwork)                                                                                                                                                                                                                                                                                                                    |
 | Chain information                                                                       | [https://grafana.doubletop.io/d/UJyurCTWz/cosmos-doubletop?orgId=1\&refresh=30s\&instance=bitcanna](https://grafana.doubletop.io/d/UJyurCTWz/cosmos-doubletop?orgId=1\&refresh=30s\&instance=bitcanna)                                                                                                                                                                                                            |
