@@ -25,8 +25,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://ping.pub/bitcanna](https://ping.pub/bitcanna)\
 [https://explorer.kjnodes.com/bitcanna](https://explorer.kjnodes.com/bitcanna)\
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
-[https://explorer.moonbys.com](https://explorer.moonbys.com)
-[https://explorer.indonode.net/bitcanna](https://explorer.indonode.net)
+[https://explorer.moonbys.com](https://explorer.moonbys.com)\
+[https://explorer.indonode.net/bitcanna](https://explorer.indonode.net)\
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
 
 ### Snapshot
