@@ -178,7 +178,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Persistent peers & seed node | [https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/awesome.md](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/awesome.md)                                 |
 | Persistent peers & seed node | [https://services.kjnodes.com/testnet/bitcanna](https://services.kjnodes.com/testnet/bitcanna)                                                                                                           |
 | Blockchain CLI commands      | [https://services.kjnodes.com/testnet/bitcanna/useful-commands](https://services.kjnodes.com/testnet/bitcanna/useful-commands)                                                                           |
-
+| Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)
 
 
 
