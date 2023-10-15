@@ -29,7 +29,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.moonbys.com](https://explorer.moonbys.com)
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/)\
 [https://explorer.moonbys.com](https://explorer.moonbys.com)\
-[https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)
+[https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna)\
+[https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna).
 
 ### Snapshot
 
