@@ -37,7 +37,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot) \
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [🔥STAVR🔥 Explorer Mainnet](https://explorer.stavr.tech/Bitcanna/staking) \
-[🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking) \
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/) \
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
@@ -241,6 +240,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [https://testnet-explorer.konsortech.xyz/bitcanna/](https://testnet-explorer.konsortech.xyz/bitcanna/)                                                                                                   |
 | Explorer                     | [https://explorer.kjnodes.com/bitcanna-testnet](https://explorer.kjnodes.com/bitcanna-testnet)                                                                                                           |
 | Explorer                     | [https://explorer.hexnodes.co/bitcanna-testnet](https://explorer.hexnodes.co/bitcanna-testnet)                                                                                                           |
+| Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                           |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
