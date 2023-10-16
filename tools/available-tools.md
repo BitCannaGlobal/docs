@@ -34,7 +34,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
 [https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.spce/bitcanna/) \
-[https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna)
+[https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
+[https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna).
 
 ### Snapshot
 
@@ -99,7 +100,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)
+[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
+[https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync](https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync)
 
 ### Snapshot
 
@@ -226,6 +228,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Upgrade guide                                                                                                            | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update)                                                                                                                                                                                                  |
 | Upgrade guide                                                                                                            | [https://docs.indonode.net/mainnet/bitcanna/upgrade](https://docs.indonode.net/mainnet/bitcanna/upgrade)
+| Upgrade guide                                                                                                            | [https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide](https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide)                                                                                                                                                                                                                                |
 
 ### Testnet tools
 
