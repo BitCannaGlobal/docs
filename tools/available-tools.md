@@ -17,16 +17,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna)\
 [https://explorer.konsortech.xyz/bitcanna/staking](https://explorer.konsortech.xyz/bitcanna/staking)\
 [https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking)\
-[https://explorer.hexnodes.co/bitcanna/staking](https://explorer.hexnodes.co/bitcanna/staking)\
-[https://wallet.bitcanna.io/](https://wallet.bitcanna.io/) \
-[https://wallet.cosmostation.io/bitcanna](https://wallet.cosmostation.io/bitcanna) \
-[https://ping.pub/bitcanna](https://ping.pub/bitcanna) \
-[https://explorer.kalia.network/wallet/](https://explorer.kalia.network/wallet/) \
-[https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
-[https://explorer.konsortech.xyz/bitcanna/staking](https://explorer.konsortech.xyz/bitcanna/staking) \
-[https://explorer.stavr.tech/Bitcanna/staking](https://explorer.stavr.tech/Bitcanna/staking) \
-[https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking) \
-[Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)
+[Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)\
+[https://explorer.safeblock.space/bitcanna/staking](https://explorer.safeblock.space/bitcanna/staking)
 
 ### Explorer
 
@@ -40,7 +32,9 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/) \
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
-[https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna)
+[https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
+[https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.spce/bitcanna/) \
+[https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna)
 
 ### Snapshot
 
@@ -70,6 +64,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
+[https://safeblock.space/?elementor_library=bitcanna-snapshot](https://safeblock.space/?elementor_library=bitcanna-snapshot)
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)
 
 ### Statesync
@@ -87,7 +82,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
 [https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
 [https://stakepool.dev.br/statesync.html](https://stakepool.dev.br/statesync.html)\
-[https://explorer.safeblock.space/bitcanna/statesync](https://explorer.safeblock.space/bitcanna/statesync)\
+[https://safeblock.space/?elementor_library=bitcanna-statesync](https://safeblock.space/?elementor_library=bitcanna-statesync)\
 [https://stakeme.io/services/state-sync/bitcanna/](https://stakeme.io/services/state-sync/bitcanna/)\
 [https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
@@ -224,6 +219,8 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Node / validator setup guide                                                                                            | [https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna)                                                                                                                                                                                                                                    |
 | Node / validator setup guide                                                                                             | [https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna)                                                                                                                                                            |
 | Node / validator setup guide                                                                                             | [https://chain-services.l0vd.com/mainnets/bitcanna/installation-guide](https://chain-services.l0vd.com/mainnets/bitcanna/installation-guide)                                                                                                                                                                                                    |
+| Node / validator setup guide                                                                                             | [https://docs.indonode.net/mainnet/bitcanna/installation](https://docs.indonode.net/mainnet/bitcanna/installation)                                                                                                                                                                                                    |
+| Node / validator setup guide                                                                                             | [https://safeblock.space/bitcanna](https://safeblock.space/bitcanna)                                                                                                                                                                                                    |
 | Node / validator setup guide                                                                                             | [https://docs.indonode.net/mainnet/bitcanna/installation](https://docs.indonode.net/mainnet/bitcanna/installation)                                                                                                                                                                                                                                |
 | Node / validator setup guide                                                                                             | [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
