@@ -45,7 +45,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
 [AlxVoy ⚡ ANODE.TEAM Snapshot](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day)\
-[https://snapshot-bcna.kjinc.io/](https://snapshot-bcna.kjinc.io/)\
+[https://services.kjinc.io/mainnet-service/bitcanna/snapshot](https://services.kjinc.io/mainnet-service/bitcanna/snapshot)\
 [https://services.kjnodes.com/mainnet/bitcanna/snapshot](https://services.kjnodes.com/mainnet/bitcanna/snapshot)\
 [https://github.com/Michel-Leidson/Snapshots](https://github.com/Michel-Leidson/Snapshots)\
 [https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
@@ -103,9 +103,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
-[https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync](https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync)
-
->>>>>>> main
+[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync)
 
 ### Submitting proposals
 
@@ -187,6 +185,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                                     |
+| Snapshot service             | [https://services.kjinc.io/testnet-service/bitcanna/snapshot](https://services.kjinc.io/testnet-service/bitcanna/snapshot)                                                                                     |
 | Statesync                    | [https://github.com/BitCannaGlobal/cosmos-statesync\_client](https://github.com/BitCannaGlobal/cosmos-statesync\_client)                                                                                 |
 | Statesync                    | [StateSync by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)                                                                                                      |
 | Statesync                    | [https://services.kjnodes.com/testnet/bitcanna/state-sync](https://services.kjnodes.com/testnet/bitcanna/state-sync)                                                                                     |
