@@ -275,5 +275,5 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Persistent peers & seed node | [Persistent peers Mainnet/Devnet  by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#-useful-tools)                                                                 |
 | Blockchain CLI commands      | [https://services.kjnodes.com/testnet/bitcanna/useful-commands](https://services.kjnodes.com/testnet/bitcanna/useful-commands)                                                                           |
 | Blockchain CLI commands      | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
-| Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)
-| Public RPC | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc)
+| Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)                                                                 |
+| Public RPC | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
