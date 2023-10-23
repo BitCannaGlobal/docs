@@ -192,7 +192,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Chain information                                                                       | [http://bitcanna.alkia.net:3000/d/UJyurCTWz/bitcanna-blockchain?orgId=1](http://bitcanna.alkia.net:3000/d/UJyurCTWz/bitcanna-blockchain?orgId=1)                                                                                                                                                                                                                                                                  |
 | Validator jailing events                                                                | [https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k](https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k/edit#gid=0)                                                                                                                                                                                                                         |
 | Validator slashboard  | [https://services.kjnodes.com/mainnet/bitcanna/slashboard](https://services.kjnodes.com/mainnet/bitcanna/slashboard) |
-| RPC Scanner           | [https://services.kjnodes.com/mainnet/bitcanna/slashboard](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
+| RPC Scanner           | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
 
 ### Validator tooling
 
@@ -276,3 +276,4 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Blockchain CLI commands      | [https://services.kjnodes.com/testnet/bitcanna/useful-commands](https://services.kjnodes.com/testnet/bitcanna/useful-commands)                                                                           |
 | Blockchain CLI commands      | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
 | Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)
+| Public RPC | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc)
