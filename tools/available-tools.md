@@ -18,7 +18,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.konsortech.xyz/bitcanna/staking](https://explorer.konsortech.xyz/bitcanna/staking)\
 [https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking)\
 [Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)\
-[https://explorer.safeblock.space/bitcanna/staking](https://explorer.safeblock.space/bitcanna/staking)
+[https://explorer.safeblock.space/bitcanna/staking](https://explorer.safeblock.space/bitcanna/staking)\
+[AlxVoy ⚡ ANODE.TEAM Wallet](https://main.anode.team/bitcanna/staking)
 
 ### Explorer
 
@@ -35,14 +36,15 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.spce/bitcanna/) \
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
-[https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna).
+[https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
+[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)
 
 ### Snapshot
 
 [https://polkachu.com/tendermint\_snapshots/bitcanna](https://polkachu.com/tendermint\_snapshots/bitcanna)\
 [https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
-[https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day)\
+[AlxVoy ⚡ ANODE.TEAM Snapshot](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day)\
 [https://snapshot-bcna.kjinc.io/](https://snapshot-bcna.kjinc.io/)\
 [https://services.kjnodes.com/mainnet/bitcanna/snapshot](https://services.kjnodes.com/mainnet/bitcanna/snapshot)\
 [https://github.com/Michel-Leidson/Snapshots](https://github.com/Michel-Leidson/Snapshots)\
@@ -73,7 +75,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://docs.mintthemoon.xyz/bitcanna/statesync/](https://docs.mintthemoon.xyz/bitcanna/statesync/)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync)\
 [https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna)\
-[https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync)\
+[AlxVoy ⚡ ANODE.TEAM Statesync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync)\
 [https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna)\
 [https://www.bonded.zone/mainnets/bitcanna/state-sync](https://www.bonded.zone/mainnets/bitcanna/state-sync)\
 [https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)\
@@ -103,68 +105,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
 [https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync](https://docs.kitkat.zone/chains/bitcanna/bitcanna-node-state-sync)
 
-### Snapshot
-
-[https://polkachu.com/tendermint\_snapshots/bitcanna](https://polkachu.com/tendermint\_snapshots/bitcanna) \
-[https://bc.paranorm.pro/](https://bc.paranorm.pro/) \
-[https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync) \
-[https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day) \
-[https://snapshot-bcna.kjinc.io/](https://snapshot-bcna.kjinc.io/) \
-[SnapShot by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours) \
-[https://services.kjnodes.com/mainnet/bitcanna/snapshot](https://services.kjnodes.com/mainnet/bitcanna/snapshot) \
-[https://github.com/Michel-Leidson/Snapshots](https://github.com/Michel-Leidson/Snapshots) \
-[https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html) \
-[https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/) \
-[https://stakepool.dev.br/snapshots.html](https://stakepool.dev.br/snapshots.html) \
-[https://genznodes.dev/services/bitcanna](https://genznodes.dev/services/#bitcanna) \
-[https://docs.indonode.net/mainnet/bitcanna/snapshot](https://docs.indonode.net/mainnet/bitcanna/snapshot) \
-[https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html) \
-[https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md) \
-[https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna) \
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
-[https://chain-services.l0vd.com/mainnets/bitcanna/snapshot](https://chain-services.l0vd.com/mainnets/bitcanna/snapshot) \
-[https://snapshots.cosmowiz.com/bitcanna/](https://snapshots.cosmowiz.com/bitcanna/) \
-[https://snapshot.ibs.team/Bitcanna/](https://snapshot.ibs.team/Bitcanna/) \
-[https://docs.kalia.network/mainnet/bitcanna/snapshot](https://docs.kalia.network/mainnet/bitcanna/snapshot) \
-[https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/) \
-[https://anode.team/BitCanna/](https://anode.team/BitCanna/) \
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot) \
-[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot) \
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot) \
-[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)
-
-### Statesync
-
-[https://docs.mintthemoon.xyz/bitcanna/statesync/](https://docs.mintthemoon.xyz/bitcanna/statesync/) \
-[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync) \
-[https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna) \
-[https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync) \
-[https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna) \
-[https://www.bonded.zone/mainnets/bitcanna/state-sync](https://www.bonded.zone/mainnets/bitcanna/state-sync) \
-[https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync) \
-[https://ping.pub/bitcanna/statesync](https://ping.pub/bitcanna/statesync) \
-[https://services.kjnodes.com/mainnet/bitcanna/state-sync](https://services.kjnodes.com/mainnet/bitcanna/state-sync) \
-[https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync) \
-[https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html) \
-[StateSync by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna) \
-[https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/) \
-[https://stakepool.dev.br/statesync.html](https://stakepool.dev.br/statesync.html) \
-[https://explorer.safeblock.space/bitcanna/statesync](https://explorer.safeblock.space/bitcanna/statesync) \
-[https://stakeme.io/services/state-sync/bitcanna/](https://stakeme.io/services/state-sync/bitcanna/) \
-[https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna) \
-[https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync) \
-[https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html) \
-[https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync) \
-[https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md) \
-[https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync) \
-[https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync) \
-[https://github.com/MaxFoton/Bitcanna\_mainnet](https://github.com/MaxFoton/Bitcanna\_mainnet) \
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
-[https://chain-services.l0vd.com/mainnets/bitcanna/state-sync](https://chain-services.l0vd.com/mainnets/bitcanna/state-sync) \
-[https://www.alkia.net/state-sync-for-bitcanna](https://www.alkia.net/state-sync-for-bitcanna) \
-[https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/) \
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync) \
-[https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)
 >>>>>>> main
 
 ### Submitting proposals
@@ -214,7 +154,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Node / validator setup guide                                                                                             | [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)                                                                                                                                                                                            |
 | Node / validator setup guide                                                                                             | [https://app.nodejumper.io/bitcanna/server-setup](https://app.nodejumper.io/bitcanna/server-setup)                                                                                                                                                                                                                                              |
 | Node / validator setup guide                                                                                             | <p><a href="https://docs.mintthemoon.xyz/bitcanna/node-guide">https://docs.mintthemoon.xyz/bitcanna/node-guide</a></p><p><a href="https://docs.mintthemoon.xyz/bitcanna/validator-guide">https://docs.mintthemoon.xyz/bitcanna/validator-guide</a></p>                                                                                          |
-| Node / validator setup guide                                                                                             | [https://anode.team/BitCanna/](https://anode.team/BitCanna/)                                                                                                                                                                                                                                                                                    |
+| Node / validator setup guide                                                                                             | [https://anode.team/BitCanna/ AlxVoy ⚡ ANODE.TEAM](https://anode.team/BitCanna/)                                                                                                                                                                                                                                                                                    |
 | Node / validator setup guide                                                                                             | [Validator Setup guide Mainnet/Devnet by 🔥STAVR🔥](https://github.com/obajay/nodes-Guides/tree/main/Projects/Bitcanna)                                                                                                                                                                                                                    |
 | Node / validator setup guide                                                                                             | <p><a href="https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/readme.md">https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/readme.md</a><br><br><a href="https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/validator.md">https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/validator.md</a></p> |
 | Node / validator setup guide                                                                                             | [https://services.kjnodes.com/mainnet/bitcanna/installation/](https://services.kjnodes.com/mainnet/bitcanna/installation/)                                                                                                                                                                                                                      |
@@ -242,6 +182,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [https://explorer.kjnodes.com/bitcanna-testnet](https://explorer.kjnodes.com/bitcanna-testnet)                                                                                                           |
 | Explorer                     | [https://explorer.hexnodes.co/bitcanna-testnet](https://explorer.hexnodes.co/bitcanna-testnet)                                                                                                           |
 | Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                           |
+| Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
@@ -250,20 +191,24 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Statesync                    | [https://services.kjnodes.com/testnet/bitcanna/state-sync](https://services.kjnodes.com/testnet/bitcanna/state-sync)                                                                                     |
 | Statesync                    | [https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Testnets/BitcannaDevnet#state-sync](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Testnets/BitcannaDevnet#state-sync) |
 | Statesync                    | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
+| Statesync                    | [AlxVoy ⚡ ANODE.TEAM Statesync](https://anode.team/BitCanna/#State-Sync_t)                                                                 |
 | RPC, GRPC, API               | [https://services.kjnodes.com/testnet/bitcanna](https://services.kjnodes.com/testnet/bitcanna)                                                                                                           |
 | RPC, GRPC, API               | [RPC, GRPC, API Devnet by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Bitcanna/README.md#-useful-tools)                                                                  |
 | RPC Node                     | [https://rpc-testnet.bitcanna.io](https://rpc-testnet.bitcanna.io)                                                                                                                                       |
 | RPC Node                     | [https://testnet-bitcanna-rpc.konsortech.xyz/](https://testnet-bitcanna-rpc.konsortech.xyz/)                                                                                                             |
 | RPC Node                     | [https://rpc.bitcanna-dev.hexnodes.co/](https://rpc.bitcanna-dev.hexnodes.co/)                                                                                                                           |
+| RPC Node                     | [AlxVoy ⚡ ANODE.TEAM RPC](https://bitcanna.rpc.t.anode.team)                                                                                                                                           |
 | API Console                  | [https://testnet-bitcanna-api.konsortech.xyz/](https://testnet-bitcanna-api.konsortech.xyz/)                                                                                                             |
 | API Console                  | [API/REST/LCD Devnet by 🔥STAVR🔥](https://bitcanna.api.dev.stavr.tech)                                                                                                                                  |
 | API Console                  | [https://api.bitcanna-dev-1.bitcanna.aviaone.com/](https://api.bitcanna-dev-1.bitcanna.aviaone.com/)                                                                                                     |
 | API Console                  | [https://rest.bitcanna-dev.hexnodes.co/](https://rest.bitcanna-dev.hexnodes.co/)                                                                                                                         |
+| API Console                  | [AlxVoy ⚡ ANODE.TEAM API](https://bitcanna.api.t.anode.team)                                                                                                                                           |
+| GRPC                         | [AlxVoy ⚡ ANODE.TEAM GRPC](https://bitcanna.grpc.t.anode.team)                                                                                                                                         |
 | Node / validator setup guide | [https://github.com/konsortech/Node/tree/main/Testnet/Bitcanna](https://github.com/konsortech/Node/tree/main/Testnet/Bitcanna)                                                                           |
 | Node / validator setup guide | [Validator Setup guide Mainnet/Devnet by 🔥STAVR🔥](https://github.com/obajay/nodes-Guides/tree/main/Projects/Bitcanna)                                                                           |
 | Node / validator setup guide | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Node / validator setup guide | [https://services.kjnodes.com/testnet/bitcanna/installation](https://services.kjnodes.com/testnet/bitcanna/installation)                                                                                 |
-| Node / validator setup guide | [https://anode.team/BitCanna/](https://anode.team/BitCanna/)                                                                                                                                             |
+| Node / validator setup guide | [https://anode.team/BitCanna/ AlxVoy ⚡ ANODE.TEAM](https://anode.team/BitCanna/)                                                                                                                        |
 | Node / validator setup guide | [https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Testnets/BitcannaDevnet](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Testnets/BitcannaDevnet)                       |
 | Node / validator setup guide | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
 | Node upgrade instructions    | [https://services.kjnodes.com/testnet/bitcanna/upgrade](https://services.kjnodes.com/testnet/bitcanna/upgrade)                                                                                           |
@@ -271,6 +216,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Persistent peers & seed node | [https://services.kjnodes.com/testnet/bitcanna](https://services.kjnodes.com/testnet/bitcanna)                                                                                                           |
 | Persistent peers & seed node | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
 | Persistent peers & seed node | [Persistent peers Mainnet/Devnet  by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#-useful-tools)                                                                 |
+| Persistent peers & seed node | [AlxVoy ⚡ ANODE.TEAM Peers live](https://anode.team/BitCanna/test/peers.txt)                                                                                                                            |
 | Blockchain CLI commands      | [https://services.kjnodes.com/testnet/bitcanna/useful-commands](https://services.kjnodes.com/testnet/bitcanna/useful-commands)                                                                           |
 | Blockchain CLI commands      | [https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet_installation/tree/main/Bitcanna)                                                                 |
 | Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)
