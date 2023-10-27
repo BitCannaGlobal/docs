@@ -85,7 +85,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
 [https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
 [https://stakepool.dev.br/statesync.html](https://stakepool.dev.br/statesync.html)\
-[https://safeblock.space/?elementor_library=bitcanna-statesync](https://safeblock.space/?elementor_library=bitcanna-statesync)\
 [https://stakeme.io/services/state-sync/bitcanna/](https://stakeme.io/services/state-sync/bitcanna/)\
 [https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
