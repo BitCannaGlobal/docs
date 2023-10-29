@@ -34,7 +34,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
 [https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
-[https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.spce/bitcanna/) \
+[https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.space/bitcanna/) \
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)
@@ -67,7 +67,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
-[https://safeblock.space/?elementor_library=bitcanna-snapshot](https://safeblock.space/?elementor_library=bitcanna-snapshot)
+[https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)
 
 ### Statesync
