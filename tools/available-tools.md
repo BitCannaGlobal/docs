@@ -37,7 +37,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.space/bitcanna/) \
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
-[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)
+[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna) \
+[🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna)
 
 ### Snapshot
 
@@ -102,8 +103,9 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
-[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync)\
-[https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)
+[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync) \
+[https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync) \
+[https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)
 
 ### Submitting proposals
 
@@ -131,6 +133,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Validator jailing events                                                                | [https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k](https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k/edit#gid=0)                                                                                                                                                                                                                         |
 | Validator slashboard  | [https://services.kjnodes.com/mainnet/bitcanna/slashboard](https://services.kjnodes.com/mainnet/bitcanna/slashboard) |
 | RPC Scanner           | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
+| Unbonding Chart Statistics | [https://thesilverfox.pro/#blockchains](https://thesilverfox.pro/#blockchains)
 
 ### Validator tooling
 
@@ -187,6 +190,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                           |
 | Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet)                                                                                                                                |
+| Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna) |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
@@ -201,6 +205,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Statesync                    | [AlxVoy ⚡ ANODE.TEAM Statesync](https://anode.team/BitCanna/#State-Sync_t)                                                                 |
 | Statesync            | [https://app.nodejumper.io/bitcanna-testnet/sync#state-eync](https://app.nodejumper.io/bitcanna-testnet/sync#state-eync)                                                                                 |
 | Statesync                    | [https://chain-services.l0vd.com/testnets/bitcanna/state-sync](https://chain-services.l0vd.com/testnets/bitcanna/state-sync)                                                                                 |
+| Statesync                    | [https://testnet.explorer.thesilverfox.pro/bitcanna/statesync](https://testnet.explorer.thesilverfox.pro/bitcanna/statesync) |
 | RPC, GRPC, API               | [https://services.kjnodes.com/testnet/bitcanna](https://services.kjnodes.com/testnet/bitcanna)                                                                                                           |
 | RPC, GRPC, API               | [RPC, GRPC, API Devnet by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Bitcanna/README.md#-useful-tools)                                                                  |
 | RPC, GRPC, API               | [https://app.nodejumper.io/bitcanna-testnet/api](https://app.nodejumper.io/bitcanna-testnet/api)                                                                                                         |
