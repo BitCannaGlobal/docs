@@ -19,7 +19,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking)\
 [Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)\
 [https://explorer.safeblock.space/bitcanna/staking](https://explorer.safeblock.space/bitcanna/staking)\
-[AlxVoy ⚡ ANODE.TEAM Wallet](https://main.anode.team/bitcanna/staking)
+[AlxVoy ⚡ ANODE.TEAM Wallet](https://main.anode.team/bitcanna/staking)\
+[NODEXPLORER](https://explorer.nodex.one/bitcanna/staking)
 
 ### Explorer
 
@@ -37,7 +38,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.spce/bitcanna/) \
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
-[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)
+[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
+[NODEXPLORER](https://explorer.nodex.one/bitcanna/)
 
 ### Snapshot
 
@@ -67,8 +69,9 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
-[https://safeblock.space/?elementor_library=bitcanna-snapshot](https://safeblock.space/?elementor_library=bitcanna-snapshot)
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)
+[https://safeblock.space/?elementor_library=bitcanna-snapshot](https://safeblock.space/?elementor_library=bitcanna-snapshot)\
+[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
+[https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)
 
 ### Statesync
 
@@ -102,7 +105,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
 [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna) \
-[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync)
+[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync)\
+[https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)
 
 ### Submitting proposals
 
@@ -130,7 +134,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Validator jailing events                                                                | [https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k](https://docs.google.com/spreadsheets/d/1QCpxrf00ooZEBUomLJ5QufGm1UoO\_CJyDzL\_cEioI7k/edit#gid=0)                                                                                                                                                                                                                         |
 | Validator slashboard  | [https://services.kjnodes.com/mainnet/bitcanna/slashboard](https://services.kjnodes.com/mainnet/bitcanna/slashboard) |
 | RPC Scanner           | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
-
+| Interchains RPC Scanner | [https://docs.nodex.one/networks/mainnet/bitcanna/public-rpc](https://docs.nodex.one/networks/mainnet/bitcanna/public-rpc) |
 ### Validator tooling
 
 | Description                                                                                                              | Link                                                                                                                                                                                                                                                                                                                                            |
@@ -168,7 +172,9 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Upgrade guide                                                                                                            | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
 | Upgrade guide                                                                                                            | [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update)                                                                                                                                                                                                  |
 | Upgrade guide                                                                                                            | [https://docs.indonode.net/mainnet/bitcanna/upgrade](https://docs.indonode.net/mainnet/bitcanna/upgrade)
-| Upgrade guide                                                                                                            | [https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide](https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide)                                                                                                                                                                                                                                |
+| Upgrade guide                                                                                                            | [https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide](https://docs.kitkat.zone/chains/bitcanna/bitcanna-chain-upgrade-guide)   |                                                                                                                                                                                                                             |
+| Validator Setup | [https://docs.nodex.one/networks/mainnet/bitcanna/install](https://docs.nodex.one/networks/mainnet/bitcanna/install)|
+| Validator Upgrade | [https://docs.nodex.one/networks/mainnet/bitcanna/upgrade](https://docs.nodex.one/networks/mainnet/bitcanna/upgrade) |
 
 ### Testnet tools
 
@@ -182,6 +188,9 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [https://explorer.hexnodes.co/bitcanna-testnet](https://explorer.hexnodes.co/bitcanna-testnet)                                                                                                           |
 | Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                           |
 | Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                |
+| Explorer | [NODEXPLORER](https://explorer.nodex.one/bitcanna-testnet) |
+| Chains Snapshot | [https://docs.nodex.one/networks/testnet/bitcanna/snapshot](https://docs.nodex.one/networks/testnet/bitcanna/snapshot) |
+| Chains State Sync | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync) |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
@@ -195,6 +204,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Statesync                    | [AlxVoy ⚡ ANODE.TEAM Statesync](https://anode.team/BitCanna/#State-Sync_t)                                                                 |
 | Statesync            | [https://app.nodejumper.io/bitcanna-testnet/sync#state-eync](https://app.nodejumper.io/bitcanna-testnet/sync#state-eync)                                                                                 |
 | RPC, GRPC, API               | [https://services.kjnodes.com/testnet/bitcanna](https://services.kjnodes.com/testnet/bitcanna)                                                                                                           |
+| Public Endpoints | [https://docs.nodex.one/networks/testnet/bitcanna#blockchain-service](https://docs.nodex.one/networks/testnet/bitcanna#blockchain-service) |
 | RPC, GRPC, API               | [RPC, GRPC, API Devnet by 🔥STAVR🔥](https://github.com/obajay/StateSync-snapshots/blob/main/Projects/Bitcanna/README.md#-useful-tools)                                                                  |
 | RPC, GRPC, API               | [https://app.nodejumper.io/bitcanna-testnet/api](https://app.nodejumper.io/bitcanna-testnet/api)                                                                                                         |
 | RPC Node                     | [https://rpc-testnet.bitcanna.io](https://rpc-testnet.bitcanna.io)                                                                                                                                       |
@@ -228,3 +238,6 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Blockchain CLI commands      | [https://app.nodejumper.io/bitcanna-testnet/cheat-sheet](https://app.nodejumper.io/bitcanna-testnet/cheat-sheet)                                                                 |
 | Endpoint,Seed,Peers,Snapshot,Statesync,Addrbook,Install Guide,Cli     | [https://genznodes.dev/testnet_services/#bitcanna](https://genznodes.dev/testnet_services/#bitcanna)                                                                 |
 | Public RPC | [https://services.kjnodes.com/mainnet/bitcanna/public-rpc](https://services.kjnodes.com/mainnet/bitcanna/public-rpc) |
+| Testnet Setup | [https://docs.nodex.one/networks/testnet/bitcanna/install](https://docs.nodex.one/networks/testnet/bitcanna/install) |
+| Public Endpoints | [https://docs.nodex.one/networks/testnet/bitcanna#blockchain-service](https://docs.nodex.one/networks/testnet/bitcanna#blockchain-service)
+| Public RPC Scanner| [https://docs.nodex.one/networks/testnet/bitcanna/public-rpc](https://docs.nodex.one/networks/testnet/bitcanna/public-rpc)
