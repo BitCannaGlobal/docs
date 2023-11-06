@@ -20,6 +20,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [Leap Wallet](https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg/?utm\_source=website\&utm\_medium=permanent-website\&utm\_campaign=permanent)\
 [https://explorer.safeblock.space/bitcanna/staking](https://explorer.safeblock.space/bitcanna/staking)\
 [AlxVoy ⚡ ANODE.TEAM Wallet](https://main.anode.team/bitcanna/staking)\
+[https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot) \
 [NODEXPLORER](https://explorer.nodex.one/bitcanna/staking)
 
 ### Explorer
@@ -28,7 +29,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://www.mintscan.io/bitcanna](https://www.mintscan.io/bitcanna) \
 [https://ping.pub/bitcanna](https://ping.pub/bitcanna) \
 [https://explorer.kjnodes.com/bitcanna](https://explorer.kjnodes.com/bitcanna) \
-[https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot) \
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [🔥STAVR🔥 Explorer Mainnet](https://explorer.stavr.tech/Bitcanna/staking) \
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/) \
