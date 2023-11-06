@@ -35,7 +35,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
 [https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.space/bitcanna/) \
-[https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
 [🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna) \
