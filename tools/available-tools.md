@@ -32,14 +32,12 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [🔥STAVR🔥 Explorer Mainnet](https://explorer.stavr.tech/Bitcanna/staking) \
 [https://explorer.indonode.net/bitcanna/](https://explorer.indonode.net/bitcanna/) \
-[https://explorer.moonbys.com](https://explorer.moonbys.com) \
 [https://explorers.cryptech.com.ua/bitcanna](https://explorers.cryptech.com.ua/bitcanna) \
 [https://explorer.hexnodes.co/bitcanna](https://explorer.hexnodes.co/bitcanna) \
 [https://explorer.safeblock.space/bitcanna/](https://explorer.safeblock.space/bitcanna/) \
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna) \
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna). \
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
-[AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna) \
 [🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna) \
 [NODEXPLORER](https://explorer.nodex.one/bitcanna/)
 
