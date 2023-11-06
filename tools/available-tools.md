@@ -200,6 +200,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                           |
 | Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                |
 | Explorer | [NODEXPLORER](https://explorer.nodex.one/bitcanna-testnet) |
+| Explorer | [https://explorers.l0vd.com/bitcanna-testnet](https://explorers.l0vd.com/bitcanna-testnet) |
 | Chains Snapshot | [https://docs.nodex.one/networks/testnet/bitcanna/snapshot](https://docs.nodex.one/networks/testnet/bitcanna/snapshot) |
 | Chains State Sync | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync) |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet) |
