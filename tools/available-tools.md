@@ -196,8 +196,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer | [https://explorers.l0vd.com/bitcanna-testnet](https://explorers.l0vd.com/bitcanna-testnet) |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet) |
 | Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna) |
-| Snapshot service             | [https://aviaone.com/blockchains-service/ |
-bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
+| Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [SnapShot by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna#snapshot-03-gb-updated-every-5-hours)                                                                 |                                                                      
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                                     |
