@@ -51,7 +51,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://services.kjnodes.com/mainnet/bitcanna/snapshot](https://services.kjnodes.com/mainnet/bitcanna/snapshot)\
 [https://github.com/Michel-Leidson/Snapshots/tree/main/Bitcanna](https://github.com/Michel-Leidson/Snapshots/tree/main/Bitcanna)\
 [https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
-[https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
 [https://genznodes.dev/resources/snapshot/bitcanna](https://genznodes.dev/resources/snapshot/bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/snapshot](https://docs.indonode.net/mainnet/bitcanna/snapshot)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
@@ -70,7 +69,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 
 ### Statesync
 
-[https://docs.mintthemoon.xyz/bitcanna/statesync/](https://docs.mintthemoon.xyz/bitcanna/statesync/)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync)\
 [https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna)\
 [https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
@@ -78,30 +76,20 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync)\
 [https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna)\
 [https://www.bonded.zone/mainnets/bitcanna/state-sync](https://www.bonded.zone/mainnets/bitcanna/state-sync)\
-[https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)\
 [https://ping.pub/bitcanna/statesync](https://ping.pub/bitcanna/statesync)\
 [https://services.kjnodes.com/mainnet/bitcanna/state-sync](https://services.kjnodes.com/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
-[https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
-[https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
 [https://stakepool.dev.br/statesync.html](https://stakepool.dev.br/statesync.html)\
-[https://stakeme.io/services/state-sync/bitcanna/](https://stakeme.io/services/state-sync/bitcanna/)\
-[https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna)\
+[https://genznodes.dev/resources/statesync/bitcanna]([https://genznodes.dev/services/#bitcanna](https://genznodes.dev/resources/statesync/bitcanna))\
 [https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
-[https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync)\
-[https://github.com/MaxFoton/Bitcanna\_mainnet](https://github.com/MaxFoton/Bitcanna\_mainnet)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
 [https://chain-services.l0vd.com/mainnets/bitcanna/state-sync](https://chain-services.l0vd.com/mainnets/bitcanna/state-sync)\
-[https://www.alkia.net/state-sync-for-bitcanna](https://www.alkia.net/state-sync-for-bitcanna)\
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
-[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statasync)\
+[https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statesync)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)\
 [https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)
@@ -188,18 +176,15 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [https://testnet.ping.pub/bitcanna/staking](https://testnet.ping.pub/bitcanna/staking)                                                                                                                   |
 | Explorer                     | [https://testnet-explorer.konsortech.xyz/bitcanna/](https://testnet-explorer.konsortech.xyz/bitcanna/)                                                                                                   |
 | Explorer                     | [https://explorer.kjnodes.com/bitcanna-testnet](https://explorer.kjnodes.com/bitcanna-testnet)                                                                                                           |
-| Explorer                     | [https://explorer.hexnodes.co/bitcanna-testnet](https://explorer.hexnodes.co/bitcanna-testnet)                                                                                                           |
 | Explorer                     | [🔥STAVR🔥 Explorer Devnet](https://explorer.stavr.tech/Bitcanna-DEV/staking)                                                                                                                            |
 | Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                  |
 | Explorer                     | [NODEXPLORER](https://explorer.nodex.one/bitcanna-testnet)                                                                                                                                               |
-| Explorer                     | [https://explorers.l0vd.com/bitcanna-testnet](https://explorers.l0vd.com/bitcanna-testnet)                                                                                                               |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet)                                                                                                                                      |
 | Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna)                                                                                                                 |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                                             |
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                                         |
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                                     |
 | Snapshot service             | [https://services.kjinc.io/testnet-service/bitcanna/snapshot](https://services.kjinc.io/testnet-service/bitcanna/snapshot)                                                                               |
-| Snapshot service             | [https://chain-services.l0vd.com/testnets/bitcanna/snapshot](https://chain-services.l0vd.com/testnets/bitcanna/snapshot)                                                                                 |
 | Snapshot service             | [https://genznodes.dev/resources/snapshot/testnet-bitcanna]([https://genznodes.dev/testnet\_services/#bitcanna](https://genznodes.dev/resources/snapshot/testnet-bitcanna))                                                                                                   |
 | Statesync                    | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync)                                                                                 |
 | Statesync                    | [https://github.com/BitCannaGlobal/cosmos-statesync\_client](https://github.com/BitCannaGlobal/cosmos-statesync\_client)                                                                                 |
