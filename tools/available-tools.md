@@ -194,8 +194,6 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [AlxVoy ⚡ ANODE.TEAM Explorer](https://test.anode.team/bitcanna-devnet)                                                                                                                                |
 | Explorer | [NODEXPLORER](https://explorer.nodex.one/bitcanna-testnet) |
 | Explorer | [https://explorers.l0vd.com/bitcanna-testnet](https://explorers.l0vd.com/bitcanna-testnet) |
-| Chains Snapshot | [https://docs.nodex.one/networks/testnet/bitcanna/snapshot](https://docs.nodex.one/networks/testnet/bitcanna/snapshot) |
-| Chains State Sync | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync) |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet) |
 | Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna) |
 | Snapshot service             | [https://aviaone.com/blockchains-service/ |
@@ -205,6 +203,8 @@ bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bi
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                                     |
 | Snapshot service             | [https://services.kjinc.io/testnet-service/bitcanna/snapshot](https://services.kjinc.io/testnet-service/bitcanna/snapshot)                                                                                     |
 | Snapshot service             | [https://chain-services.l0vd.com/testnets/bitcanna/snapshot](https://chain-services.l0vd.com/testnets/bitcanna/snapshot)                                                                                     |
+| Snapshot service | [https://docs.nodex.one/networks/testnet/bitcanna/snapshot](https://docs.nodex.one/networks/testnet/bitcanna/snapshot) |
+| Statesync | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync) |
 | Statesync                    | [https://github.com/BitCannaGlobal/cosmos-statesync\_client](https://github.com/BitCannaGlobal/cosmos-statesync\_client)                                                                                 |
 | Statesync                    | [StateSync by 🔥STAVR🔥 ](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)                                                                                                      |
 | Statesync                    | [https://services.kjnodes.com/testnet/bitcanna/state-sync](https://services.kjnodes.com/testnet/bitcanna/state-sync)                                                                                     |
