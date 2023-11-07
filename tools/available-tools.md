@@ -46,31 +46,25 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
 [AlxVoy ⚡ ANODE.TEAM Snapshot](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day)\
+[https://anode.team/BitCanna/](https://anode.team/BitCanna/)\
 [https://services.kjinc.io/mainnet-service/bitcanna/snapshot](https://services.kjinc.io/mainnet-service/bitcanna/snapshot)\
 [https://services.kjnodes.com/mainnet/bitcanna/snapshot](https://services.kjnodes.com/mainnet/bitcanna/snapshot)\
-[https://github.com/Michel-Leidson/Snapshots](https://github.com/Michel-Leidson/Snapshots)\
+[https://github.com/Michel-Leidson/Snapshots/tree/main/Bitcanna](https://github.com/Michel-Leidson/Snapshots/tree/main/Bitcanna)\
 [https://bitszn.com/snapshots.html](https://bitszn.com/snapshots.html)\
 [https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/](https://nodiums.com/index.php/2022/11/20/bitcanna-snapshot-state-sync-and-api-rpc/)\
-[https://stakepool.dev.br/snapshots.html](https://stakepool.dev.br/snapshots.html)\
-[https://genznodes.dev/services/bitcanna](https://genznodes.dev/services/#bitcanna)\
+[https://genznodes.dev/resources/snapshot/bitcanna](https://genznodes.dev/resources/snapshot/bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/snapshot](https://docs.indonode.net/mainnet/bitcanna/snapshot)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
 [https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/snapshot.md)\
-[https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
+[https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#choose-sync-mode-snapshot-or-state-sync](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#choose-sync-mode-snapshot-or-state-sync)\
+[https://github.com/hexskrt/mainnet/tree/main/Bitcanna#snapshot--update-every-5-hours-](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
 [https://chain-services.l0vd.com/mainnets/bitcanna/snapshot](https://chain-services.l0vd.com/mainnets/bitcanna/snapshot)\
-[https://snapshots.cosmowiz.com/bitcanna/](https://snapshots.cosmowiz.com/bitcanna/)\
 [https://snapshot.ibs.team/Bitcanna/](https://snapshot.ibs.team/Bitcanna/)\
 [https://docs.kalia.network/mainnet/bitcanna/snapshot](https://docs.kalia.network/mainnet/bitcanna/snapshot)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
-[https://anode.team/BitCanna/](https://anode.team/BitCanna/)\
-[https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/snapshot)\
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
-[https://safeblock.space/?elementor_library=bitcanna-snapshot](https://safeblock.space/?elementor_library=bitcanna-snapshot)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
 [https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
-[https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)
 
