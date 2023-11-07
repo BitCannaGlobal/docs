@@ -40,7 +40,7 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
   * Obtained from: [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
 * Public RPC nodes
   * Description: providing an RPC node where queries can be made to obtain data from the blockchain
-  * Prerequisite: accessible URL, tx-index = on, node needs to be synced. Note; these should not be run from your validator node for security reasons.
+  * Prerequisite: accessible URL, tx-index = on, node needs to be synced. Note; these should not be run from your validator node for security reasons (note: on the testnet we allow it)
   * (Mainnet) Obtained from: [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
   * (Testnet)  Obtained from: [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
 * Seednodes
