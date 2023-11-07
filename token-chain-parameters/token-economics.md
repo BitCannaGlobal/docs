@@ -4,7 +4,7 @@
 
 [**Total supply**](https://graphql.bitcanna.io/api/rest/supply/total) (excl. inflation)
 
-[**Circulating supply** ](https://graphql.bitcanna.io/api/rest/supply/circulating)(total - vested - bonded)&#x20;
+[**Circulating supply**](https://api2.bitcanna.io/api/rest/supply/circulating) (total - vested - bonded)&#x20;
 
 
 
