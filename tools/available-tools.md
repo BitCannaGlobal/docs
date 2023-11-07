@@ -75,6 +75,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna)\
 [https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [AlxVoy ⚡ ANODE.TEAM Statesync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync)\
+[https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync)\
 [https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna)\
 [https://www.bonded.zone/mainnets/bitcanna/state-sync](https://www.bonded.zone/mainnets/bitcanna/state-sync)\
 [https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)\
@@ -88,7 +89,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://genznodes.dev/services/#bitcanna](https://genznodes.dev/services/#bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
-[https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
 [https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync](https://github.com/CryptoSailors/cryptosailors-guides/tree/main/Mainnets/Bitcanna#state-sync)\
