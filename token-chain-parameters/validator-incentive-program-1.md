@@ -78,13 +78,13 @@ For our current delegation program running from November 2023, we have in total 
 * Seednodes (50k BCNA delegation)
 * Relayers (400k BCNA delegation per channel)
 
-After substracting the delegation amount required to reward these services, we distribute the remaining delegation budget over the rest of the services. This is done by giving points for each service. A “Yes” gets 1 point, a “Small” gets 0.5 point, a “Medium” gets 1 point, a “Large” gets 1.5 point and the Innovation tag gets 0.1 point. In our current execution 1 point is worth a delegation of 312171,05 BCNA. This means that:
+After substracting the delegation amount required to reward these services, we distribute the remaining delegation budget over the rest of the services. This is done by giving points for each service. A “Yes” gets 1 point, a “Small” gets 0.5 point, a “Medium” gets 1 point, a “Large” gets 1.5 point and the Innovation tag gets 0.1 point. In our current execution 1 point is worth a delegation of 316333,33 BCNA. This means that:
 
-* A "Yes" gets a delegation of 312171,05 BCNA
-* A “Small” gets a delegation of 156085,52 BCNA
-* A “Medium” gets a delegation of 312171,05 BCNA
-* A “Large” gets a delegation of 468256,57 BCNA
-* “Innovation” gets a delegation of 31217,10 BCNA
+* A "Yes" gets a delegation of 316333,33 BCNA
+* A “Small” gets a delegation of 158166,66 BCNA
+* A “Medium” gets a delegation of 316333,33 BCNA
+* A “Large” gets a delegation of 474500 BCNA
+* “Innovation” gets a delegation of 31633,333 BCNA
 
 ### New delegations
 
@@ -102,54 +102,5 @@ It can also work the other way around; exceeding expectations can lead to larger
 
 ### Current delegations&#x20;
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+<table data-header-hidden><thead><tr><th width="202">Validator</th><th>Services</th><th>Delegation [BCNA]</th></tr></thead><tbody><tr><td>AlxVoy</td><td>Explorer testnet, Tech support, Testnet node, Snapshots mainnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode mainnet, Seednode testnet</td><td>1324000</td></tr><tr><td>ArcturianTech</td><td>Tech support (Large), Testnet node, RPC node mainnet, Others live</td><td>1157166,66</td></tr><tr><td>AVIAONE</td><td>Tech support (Large), Testnet node, Snapshots mainnet, Snapshots testnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode mainnet, Seednode testnet</td><td>1240833,33</td></tr><tr><td>bitszn</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>BlockHunters</td><td>Testnet node, RPC node mainnet, Seednode mainnet</td><td>416333,33</td></tr><tr><td>bonded.zone</td><td>Testnet node, Statesync mainnet</td><td>366333,33</td></tr><tr><td>cardex</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>Cosmostation</td><td>Wallet (Large), Explorer mainnet (Large), Data analytics (Large)</td><td>1423500</td></tr><tr><td>CosmoWiz</td><td>Testnet node, Data analytics (Medium)</td><td>632666,66</td></tr><tr><td>cryptech</td><td>Testnet node, Statesync mainnet</td><td>366333,33</td></tr><tr><td>CryptoSailors</td><td>Snapshots mainnet</td><td>150000</td></tr><tr><td>Cybernodes</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>DoubleTop</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>F-Staking</td><td>Others live (Innovation)</td><td>31633,333</td></tr><tr><td>genznodes</td><td>Tech support, Testnet node, Snapshots mainnet, Snapshots testnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode testnet, Relayer</td><td>1432666,66</td></tr><tr><td>GrowVigorously</td><td>Tech support</td><td>316333,33</td></tr><tr><td>Hexnodes</td><td>Testnet node, Snapshots mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode mainnet, Seednode testnet</td><td>641333,33</td></tr><tr><td>Indonode</td><td>Tech support, Snapshots mainnet, Statesync mainnet</td><td>516333,33</td></tr><tr><td>Inter Blockchain Services</td><td>Tech support, Testnet node, Snapshots mainnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode mainnet, Seednode testnet, Relayer</td><td>1407666,66</td></tr><tr><td>Kalia</td><td>Testnet node, Snapshots mainnet</td><td>466333,33</td></tr><tr><td>KitKat</td><td>RPC node mainnet</td><td>50000</td></tr><tr><td>KJINC</td><td>Testnet node, Snapshots mainnet, Snapshots testnet, Statesync mainnet, RPC node mainnet, RPC node testnet</td><td>666333,33</td></tr><tr><td>kjnodes</td><td>Explorer testnet, Tech support (Large), Testnet node, Snapshots mainnet, Snapshots testnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Seednode mainnet, Seednodeestnet, Relayer, Data analytics (Large),</td><td>2431666,66</td></tr><tr><td>konsortech</td><td>Explorer testnet, Tech support, Testnet node, Snapshots mainnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet</td><td>1249000</td></tr><tr><td>L0vd</td><td>Testnet node, Snapshots mainnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet</td><td>616333,33</td></tr><tr><td>Lavender.Five Nodes</td><td>Seednode mainnet</td><td>50000</td></tr><tr><td>makimaprjkt</td><td>Testnet node, Snapshots mainnet, Statesync mainnet, RPC node mainnet, Seednode mainnet, Relayer</td><td>1016333,33</td></tr><tr><td>midora</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>MMS</td><td>Testnet node, Snapshots mainnet, Statesync mainnet, RPC node mainnet, Seednode mainnet</td><td>616333,33</td></tr><tr><td>MultVR</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>Node&#x26;Validator VN</td><td>Tech support</td><td>316333,33</td></tr><tr><td>Nodejumper</td><td>Tech support, Testnet node, Snapshots mainnet, Snapshots testnet, Statesync mainnet, Statesync testnet, RPC node mainnet, RPC node testnet, Data analytics (Large)</td><td>1482166,66</td></tr><tr><td>NodeX Emperor</td><td>Explorer testnet, Tech support, Testnet node, Snapshots mainnet, Statesync mainnet, Statesync testnet, RPC node mainnet, Seednode mainnet, Data analytics (Medium)</td><td>1590333,33</td></tr><tr><td>Nodiums</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>Notional</td><td>RPC node mainnet, Relayer</td><td>450000</td></tr><tr><td>Oldcat</td><td>Testnet node, Seednode mainnet</td><td>366333,33</td></tr><tr><td>Pandora</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>Panthea</td><td>Tech support, Snapshots mainnet, Statesync mainnet, RPC node mainnet, Seednode mainnet, Relayer</td><td>1016333,33</td></tr><tr><td>Paranormal</td><td>Tech support, Snapshots mainnet, Statesync mainnet, RPC node mainnet, Data analytics (Large), Others live (Innovation)</td><td>1072466,66</td></tr><tr><td>Ping</td><td>Wallet (Large), Explorer mainnet (Large), Explorer testnet, Statesync mainnet</td><td>1315333,33</td></tr><tr><td>Podocasts</td><td>Marketing-education</td><td>316333,33</td></tr><tr><td>Polkachu</td><td>Snapshots mainnet, Statesync mainnet, RPC node mainnet, Relayer, Data analytics (Medium)</td><td>966333,33</td></tr><tr><td>Safe Block</td><td>Tech support, Testnet node, Snapshots mainnet, RPC node mainnet</td><td>832666,66</td></tr><tr><td>SGTstake</td><td>Archive Node, RPC node mainnet</td><td>1550000</td></tr><tr><td>SmartNodes</td><td>Marketing-education</td><td>316333,33</td></tr><tr><td>Stake.Works</td><td>Testnet node</td><td>316333,33</td></tr><tr><td>Stakely</td><td>RPC node mainnet, Relayer</td><td>450000</td></tr><tr><td>StakePool</td><td>Tech support (Large), Snapshots mainnet, Statesync mainnet</td><td>674500</td></tr><tr><td>STAVR</td><td>Explorer testnet, Tech support, Testnet node, Snapshots mainnet, Statesync mainnet, RPC node mainnet, Relayer</td><td>1599000</td></tr><tr><td>The Silver Fox</td><td>Explorer testnet, Testnet node, Statesync mainnet, Statesync testnet</td><td>707666,66</td></tr><tr><td>ValidatorNode</td><td>RPC node mainnet</td><td>50000</td></tr><tr><td>🐔 The Chicken Coop 🦝</td><td>Tech support (Large), Relayer, Others live</td><td>1190833,33</td></tr></tbody></table>
 
