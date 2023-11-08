@@ -61,4 +61,4 @@ For details about inflation, please see [**Chain Parameters**](chain-parameters.
 
 ### Delegations
 
-BitCanna will delegate coins to parties that contribute significantly to the growth of the BitCanna network as described in our [**Validator Incentive Program**](validator-incentive-program.md).
+BitCanna will delegate coins to parties that contribute significantly to the growth of the BitCanna network as described in our [**Validator Incentive Program**](broken-reference).
