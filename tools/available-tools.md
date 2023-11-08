@@ -80,7 +80,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://services.kjnodes.com/mainnet/bitcanna/state-sync](https://services.kjnodes.com/mainnet/bitcanna/state-sync)\
 [https://explorers.cryptech.com.ua/bitcanna/statesync](https://explorers.cryptech.com.ua/bitcanna/statesync)\
 [https://stakepool.dev.br/statesync.html](https://stakepool.dev.br/statesync.html)\
-[https://genznodes.dev/resources/statesync/bitcanna]([https://genznodes.dev/services/#bitcanna](https://genznodes.dev/resources/statesync/bitcanna))\
+[https://genznodes.dev/resources/statesync/bitcanna](https://genznodes.dev/resources/statesync/bitcanna)\
 [https://docs.indonode.net/mainnet/bitcanna/statesync](https://docs.indonode.net/mainnet/bitcanna/statesync)\
 [https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html](https://aviaone.com/blockchains-service/bitcanna-mainnet-bitcanna-1.html)\
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md)\
@@ -92,10 +92,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)\
 [https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)
-
-### Submitting proposals
-
-[https://proposals.subtract.fi/draft?type=TextProposal\&chain=bitcanna](https://proposals.subtract.fi/draft?type=TextProposal\&chain=bitcanna)
 
 ### RPC Node
 
