@@ -13,7 +13,7 @@
 
 * [Token Economics](token-chain-parameters/token-economics.md)
 * [Chain Parameters](token-chain-parameters/chain-parameters.md)
-* [Validator Incentive Program](token-chain-parameters/validator-incentive-program-1.md)
+* [Validator Incentive Program](token-chain-parameters/validator-incentive-program.md)
 
 ## 💁 Guides
 
