@@ -14,7 +14,7 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
   * Obtained from: [Github](../tools/available-tools.md#wallet) (our docs page)
 * Explorer
   * Description: providing an explorer to be used to see wallet balances and block history
-  * Prerequisite: using own resources (e.g. LCD endpoints. Note; these should not be run from your validator for security reasons), being able to load all blocks from block 1 to the actual block height (the database may not be pruned)
+  * Prerequisite: using own resources (e.g. LCD endpoints. Note; these should not be run from your validator for security reasons), being able to load all blocks from block 1 to the actual block height (the database may not be pruned), data has to be included in **both** files on Github
   * (Mainnet) Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
   * (Testnet)  Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
 * Technical support
@@ -31,7 +31,7 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
   * Obtained from: [Github](../tools/available-tools.md#snapshot) (our docs page)
 * Statesync
   * Description: providing instruction and method how to statesync a node on the BitCanna network
-  * Prerequisite: working link, instruction how to statesync or use the script included
+  * Prerequisite: working link, instruction how to statesync or use the script included, data has to be included in **both** files on Github
   * (Mainnet) Obtained from: [Github](../tools/available-tools.md#statesync) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
   * (Testnet)  Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
 * Archive nodes
