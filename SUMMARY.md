@@ -22,9 +22,10 @@
 * [Pay with BitCanna Guides](guides/pay-with-bitcanna-guides.md)
 * [Validator Setup Guide](guides/validator-setup-guide.md)
 
-## Tools
+## Useful links
 
-* [Available tools](tools/available-tools.md)
+* [Available tools](useful-links/available-tools.md)
+* [Privacy Policy](useful-links/privacy-policy.md)
 
 ## ❓ FAQ
 
