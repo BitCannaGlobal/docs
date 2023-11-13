@@ -12,7 +12,7 @@ _UPDATED 17-11-2022_
 
 [**Business Development**](https://www.mintscan.io/bitcanna/account/bcna1465kg4xaa5sl3vlm02zwe6y7jqltyncvcsygxr): 57.324.341 coins, actual balance 33,544,907
 
-* [**23.3M**](https://www.mintscan.io/bitcanna/account/bcna184wk75xjc0sn8krx9rzdtygm0dlncmt04k5ry9) **BCNA vested\*** until October 28th 2022. They were revested on November 9th 2022 until November 9th 2023.&#x20;
+* [**23.3M**](https://www.mintscan.io/bitcanna/address/bcna1tdpec339xrucmmr4x73teu3lc2phq45mv07z9n) **BCNA vested\*** until October 28th 2022. They were revested on November 9th 2022 until November 9th 2023. On 13-11-2023 a new revestment was made ending November 13th 2024.
 * 1.5M BCNA was distributed to testnet participants as rewards
 * 32.7M BCNA is currently delegated to professional validators & contributors
 * 763,745.422 BCNA was [**sent**](https://www.mintscan.io/bitcanna/txs/4519770C9EB52C314C471A96605643FBC12CA7BC9A933903C793AE1342E29684) to bootstrap liquidity pools
@@ -29,7 +29,7 @@ _UPDATED 17-11-2022_
 
 [**Marketing**](https://www.mintscan.io/bitcanna/account/bcna16pczhqlsglmjyyap3785cqnpq30q430jkgw4gk): 38.216.228 coins, actual balance 14,866,953
 
-* [**17.9M**](https://www.mintscan.io/bitcanna/account/bcna184wk75xjc0sn8krx9rzdtygm0dlncmt04k5ry9) **BCNA vested\*** until October 28th 2022. They were revested on November 9th 2022 until November 9th 2023.&#x20;
+* [**17.9M**](https://www.mintscan.io/bitcanna/address/bcna1tdpec339xrucmmr4x73teu3lc2phq45mv07z9n) **BCNA vested\*** until October 28th 2022. They were revested on November 9th 2022 until November 9th 2023. On 13-11-2023 a new revestment was made ending November 13th 2024.
 * 6M BCNA was [**distributed**](https://www.mintscan.io/bitcanna/txs/B6D79F758B679D08636E0F433947B51FC62E932115761EE5BC67810646B1EEDC) for Osmosis pool incentives, of which 2M was [**returned**](https://www.mintscan.io/bitcanna/txs/B92E2048FD46F8F245DCFE6F1969C6E1EDDBB3B5E8EA8EFD2E9428E749D30FC0) on 13-06-2022
 * 1260 BCNA was [**sent**](https://www.mintscan.io/bitcanna/txs/5223EC1E3C2FA5B8E54C1C34F5D74422A0D26A1F162B4450E3A6BF80DAAE35B3) to the Osmosis marketing DAO address for meme contest
 * 43150 BCNA was [**sent**](https://www.mintscan.io/bitcanna/txs/3A04E92A6F7BE9D2EE944FC0823C64FE2F0601042F7DB46D0C827B88F180DDAC) to Hanf Magazin for advertising
@@ -48,7 +48,7 @@ _UPDATED 17-11-2022_
 
 [**Team**](https://www.mintscan.io/bitcanna/account/bcna1r8asszy62sd52kkankydt6eg5y4nsy7aze4ldn): 32.324.341 coins\*\*, actual balance 0
 
-* [**32.3M**](https://www.mintscan.io/bitcanna/account/bcna1wwkkxdrwddf7me8qhl9mg478ajf34py7ugyxng) **BCNA originally vested\*** until October 28th 2022 13:00 UTC. They were revested on November 9th 2022 until November 9th 2023.&#x20;
+* [**32.3M**](https://www.mintscan.io/bitcanna/address/bcna1tdpec339xrucmmr4x73teu3lc2phq45mv07z9n) **BCNA originally vested\*** until October 28th 2022 13:00 UTC. They were revested on November 9th 2022 until November 9th 2023. On 13-11-2023 a new revestment was made ending November 13th 2024.
 * \~200 BCNA was distributed to fund relayers and new validators
 
 **244.757.980 coins** (distributed throughout investor_s)_
