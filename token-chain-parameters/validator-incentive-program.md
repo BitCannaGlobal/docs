@@ -4,7 +4,11 @@ The BitCanna chain is supporting the network and the services of BitCanna. Curre
 
 ### Categories recognized as services for BitCanna
 
-The services we recognize are described below. Per category the description of the service is given and the prerequisite we use to assess eligibility. Services can be rewarded for testnet and mainnet services separately.&#x20;
+The services we recognize are described below. Per category the description of the service is given and the prerequisite we use to assess eligibility. Services can be rewarded for testnet and mainnet services separately. Prerequisites applied are the following:
+
+* active in governance when a proposal is on chain (measured over the last 10 proposals a participation rate of 80% is required)
+* having a maximum commission rate of 20%
+* uptime of 99% or higher
 
 For the testnet we recognize explorers, testnet nodes, snapshots, statesync, public RPC nodes, seednodes. The delegation per offered service on the testnet is half (50%) of the same service offered on the mainnet.
 
