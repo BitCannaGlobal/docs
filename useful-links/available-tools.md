@@ -91,7 +91,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statesync)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)\
 [https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)\
-[https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)
+[https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)\
+[https://safeblock.space/bitcanna-statesync](https://safeblock.space/bitcanna-statesync)
 
 ### RPC Node
 
