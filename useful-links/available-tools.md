@@ -39,6 +39,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
 [🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna)\
 [NODEXPLORER](https://explorer.nodex.one/bitcanna/)
+[L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-mainnet)
 
 ### Snapshot
 
