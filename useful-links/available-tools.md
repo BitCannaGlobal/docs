@@ -112,6 +112,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Interchains RPC Scanner                                                                 | [https://docs.nodex.one/networks/mainnet/bitcanna/public-rpc](https://docs.nodex.one/networks/mainnet/bitcanna/public-rpc)                                                                                                       |
 | Exposed RPC ports on validators                                                         | [https://polkachu.com/network\_scans/bitcanna](https://polkachu.com/network\_scans/bitcanna)                                                                                                                                     |
 | Exposed RPC ports on validators                                                         | [https://cosmowiz.com/networks/BitcannaNetwork](https://cosmowiz.com/networks/BitcannaNetwork)     |
+| Node Decentralization Maps                                                              | [https://maps.konsortech.xyz/mainnet/bitcanna](https://maps.konsortech.xyz/mainnet/bitcanna)     |
 
 ### Validator tooling
 
