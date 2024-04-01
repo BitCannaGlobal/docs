@@ -15,12 +15,12 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
 * Wallet
   * Description: providing a wallet where users can manage their funds
   * Prerequisite: free validator choice, users should control their own private keys, code should be open-source, wallet needs to be dedicated (so not in combination with an explorer like a fork of ping.pub)
-  * Obtained from: [Github](../tools/available-tools.md#wallet) (our docs page)
+  * Obtained from: [Github](../useful-links/available-tools.md#wallet) (our docs page)
 * Explorer
   * Description: providing an explorer to be used to see wallet balances and block history
   * Prerequisite: using own resources (e.g. LCD endpoints. Note; these should not be run from your validator for security reasons), being able to load all blocks from block 1 to the actual block height (the database may not be pruned), data has to be included in **both** files on Github
-  * (Mainnet) Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
-  * (Testnet)  Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
+  * (Mainnet) Obtained from: [Github](../useful-links/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
+  * (Testnet)  Obtained from: [Github](../useful-links/available-tools.md#testnet-tools) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
 * Technical support
   * Description: providing technical support in our Discord channels with fellow validators and the team
   * Prerequisite: quality and amount of the support
@@ -32,12 +32,12 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
 * Snapshots
   * Description: providing snapshots to be able to bootstrap a node on the BitCanna network quickly
   * Prerequisite: working link, instruction how to use the snapshot included
-  * Obtained from: [Github](../tools/available-tools.md#snapshot) (our docs page)
+  * Obtained from: [Github](../useful-links/available-tools.md#snapshot) (our docs page)
 * Statesync
   * Description: providing instruction and method how to statesync a node on the BitCanna network
   * Prerequisite: working link, instruction how to statesync or use the script included, data has to be included in **both** files on Github
-  * (Mainnet) Obtained from: [Github](../tools/available-tools.md#statesync) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
-  * (Testnet)  Obtained from: [Github](../tools/available-tools.md#explorer) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
+  * (Mainnet) Obtained from: [Github](../useful-links/available-tools.md#statesync) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/chain-registry.json) (chain registry)
+  * (Testnet)  Obtained from: [Github](../useful-links/available-tools.md#testnet-tools) (our docs page) & [Github](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) (testnet chain registry)
 * Archive nodes
   * Description: providing an unpruned database of the blockchain history
   * Prerequisite: approachable via a link, should contain all blocks from the beginning, database must be unpruned
@@ -59,7 +59,7 @@ For the testnet we recognize explorers, testnet nodes, snapshots, statesync, pub
 * Data analytics
   * Description: providing data analytics for insights in blockchain usage, delegation statistics, network monitoring, p2p monitoring, chain health monitoring and more
   * Prerequisite: data should be accessible and useable. Advantages if data can be exported and for innovative analyses
-  * Obtained from: [Github](../tools/available-tools.md#data-analytics) (our docs page)
+  * Obtained from: [Github](../useful-links/available-tools.md#data-analytics) (our docs page)
 * Marketing / education
   * Description: providing marketing and education around BitCanna towards (crypto) audience. Content around learning others about the goals of BitCanna and helping us grow (bigger)
   * Prerequisite: high quality marketing and education, easily accessible for interested people, active communication
