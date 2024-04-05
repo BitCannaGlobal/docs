@@ -66,7 +66,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot)\
-[https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)
+[https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)\
+[https://bitcanna.bluestake.net](https://bitcanna.bluestake.net)
 
 ### Statesync
 
