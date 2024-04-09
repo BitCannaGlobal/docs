@@ -13,7 +13,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://wallet.bitcanna.io/](https://wallet.bitcanna.io/)\
 [https://wallet.cosmostation.io/bitcanna](https://wallet.cosmostation.io/bitcanna)\
 [https://ping.pub/bitcanna](https://ping.pub/bitcanna)\
-[https://explorer.kalia.network/wallet/](https://explorer.kalia.network/wallet/)\
+[https://explorer.kalia.network/wallet/](https://explorer.kalia.network/bitcanna/staking)\
 [https://cosmos.mintthemoon.xyz/bitcanna](https://cosmos.mintthemoon.xyz/bitcanna)\
 [https://explorer.konsortech.xyz/bitcanna/staking](https://explorer.konsortech.xyz/bitcanna/staking)\
 [https://explorer.indonode.net/bitcanna/staking](https://explorer.indonode.net/bitcanna/staking)\
@@ -37,7 +37,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.kitkat.zone/bitcanna](https://explorer.kitkat.zone/bitcanna).\
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
 [🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna)\
-[NODEXPLORER](https://explorer.nodex.one/bitcanna/) [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-mainnet)
+[NODEXPLORER](https://explorer.nodex.one/bitcanna/) [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-mainnet)\
+[https://explorer.kalia.network/bitcanna](https://explorer.kalia.network/bitcanna)
 
 ### Snapshot
 
@@ -85,7 +86,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)\
 [https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)\
-[https://safeblock.space/bitcanna-statesync](https://safeblock.space/bitcanna-statesync)
+[https://safeblock.space/bitcanna-statesync](https://safeblock.space/bitcanna-statesync)\
+[https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)
 
 ### RPC Node
 
@@ -164,6 +166,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [NODEXPLORER](https://explorer.nodex.one/bitcanna-testnet)                                                                                                                                 |
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet)                                                                                                                        |
 | Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna)                                                                                                   |
+| Explorer                     | [https://explorer.kalia.network/testnet-bitcanna/](https://explorer.kalia.network/testnet-bitcanna/)                                                                                                   |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                               |
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                           |
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                       |
