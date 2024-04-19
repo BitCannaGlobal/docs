@@ -39,14 +39,14 @@ This new module and the testing will occur on the [**DEVNET-1**](https://github.
 The rewards for uncovering vulnerabilities in the BitCanna token burning module will be assigned based on the type and complexity of the detected issue, in addition to the quality of the solution proposed, as per the following examples:
 
 * **SPAM or DoS Attacks:**
-* Difficult to exploit: 100,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
-* Easy to exploit: 400,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
+    * Difficult to exploit: 100,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
+    * Easy to exploit: 400,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
 * **Data Corruption:**
-* Difficult to exploit: 600,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
-* Easy to exploit: 800,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
+    * Difficult to exploit: 600,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
+    * Easy to exploit: 800,000 BCNA tokens + 100,000 BCNA tokens (if a solution is provided).
 * **Theft of Funds:**
-* Difficult to exploit: 800,000 BCNA tokens + 200,000 BCNA tokens (as máximum if a solution is provided).
-* Easy to exploit: 900,000 BCNA tokens + 200,000 BCNA tokens (as máximum if a solution is provided).
+    * Difficult to exploit: 800,000 BCNA tokens + 200,000 BCNA tokens (as máximum if a solution is provided).
+    * Easy to exploit: 900,000 BCNA tokens + 200,000 BCNA tokens (as máximum if a solution is provided).
 
 In the event that the total legitimate claims exceed the 2 million BCNA token reward pool, the BitCanna Team reserves the right to proportionally adjust the rewards within each category based on the severity and impact of the vulnerabilities reported. A reserve fund of 200,000 BCNA tokens will be set aside for exceptional cases or to reward exceptionally valuable solutions that substantially exceed standard problem resolutions.
 
