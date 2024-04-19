@@ -14,6 +14,7 @@
 * [Token Economics](token-chain-parameters/token-economics.md)
 * [Chain Parameters](token-chain-parameters/chain-parameters.md)
 * [Validator Incentive Program](token-chain-parameters/validator-incentive-program.md)
+* [Bounty Program new Burn Module](token-chain-parameters/readme.md)
 
 ## 💁 Guides
 
