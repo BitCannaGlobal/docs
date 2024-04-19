@@ -24,7 +24,7 @@
 
 ## Useful links
 
-* [Available tools](useful-links/available-tools.md)
+* [Available tools](tools/available-tools.md)
 * [Privacy Policy](useful-links/privacy-policy.md)
 
 ## ❓ FAQ
