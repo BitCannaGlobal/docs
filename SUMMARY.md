@@ -13,6 +13,7 @@
 
 * [Token Economics](token-chain-parameters/token-economics.md)
 * [Chain Parameters](token-chain-parameters/chain-parameters.md)
+* [Unlocking Innovation with BitCanna's GROW Program](token-chain-parameters/chain-parameters-1.md)
 * [Validator Incentive Program](token-chain-parameters/validator-incentive-program.md)
 * [Bounty Program new Burn Module](token-chain-parameters/bounty\_program\_burn\_module.md)
 
