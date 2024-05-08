@@ -26,7 +26,7 @@ BitCanna is launching a new token burning module in version v3.1.0-rc2 and we ar
 
 ### Bug Reporting:
 
-* Participants must open an "issue" on GitHub with the title: **"DEVNET-1 BURN: Problem Description".**
+* Participants must open an "issue" on GitHub with the title: **"DEVNET-1 BURN: Problem Description". For Data Corruption & Theft of Funds please don't create a public disclosure, send an email to dev@bitcanna.io.**
 * The problem must be described in detail and include convincing evidence to support the claim. A method on how to reproduce the bug, specifically within the Burn module, must be included.
 * To be eligible for the maximum reward, participants must propose a viable solution to the identified problem within the Burn module.
 * Please review the "Conflict Resolution" section below for important guidelines on report submission and reward eligibility.
