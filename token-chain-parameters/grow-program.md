@@ -28,10 +28,10 @@ If you've got a bright idea that aligns with our vision, we encourage you to app
 * **Marketing GROW program:** https://forms.gle/wryzVmCxe6r3QLFH7
 * **Development GROW program:** https://forms.gle/K3LMX3XEXmiPGCms5
 
-
-
 _**Let's GROW together!**_
 
-\
-\
-\
+### &#x20;Latest projects approved/implemented
+
+This is the beginning of our joint growth!
+
+<table><thead><tr><th width="120.33333333333331">Category</th><th width="285">Description</th><th>Hash</th></tr></thead><tbody><tr><td>DEV</td><td>PoC of Burn module and support</td><td>B30FF66CB3F54A989723AB33A1F0F551212F38F5AFA69B09B175920363F3AB17</td></tr></tbody></table>
