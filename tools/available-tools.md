@@ -68,7 +68,7 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)\
-[https://bitcanna.bluestake.net](https://bitcanna.bluestake.net)
+[https://bluestake.net/bitcanna/snapshots](https://bluestake.net/bitcanna/snapshots/)
 
 ### Statesync
 
@@ -95,7 +95,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://explorer.thesilverfox.pro/bitcanna/statesync](https://explorer.thesilverfox.pro/bitcanna/statesync)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)\
 [https://safeblock.space/bitcanna-statesync](https://safeblock.space/bitcanna-statesync)\
-[https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)
+[https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)\
+[https://bluestake.net/bitcanna/statesync](https://bluestake.net/bitcanna/statesync/)
 
 ### RPC Node
 
