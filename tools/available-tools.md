@@ -50,7 +50,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 ### Snapshot
 
 [https://polkachu.com/tendermint\_snapshots/bitcanna](https://polkachu.com/tendermint\_snapshots/bitcanna)\
-[https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
 [AlxVoy ⚡ ANODE.TEAM Snapshot](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#snapshot-2-times-a-day)\
 [https://anode.team/BitCanna/](https://anode.team/BitCanna/)\
@@ -74,7 +73,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 
 [https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync)\
 [https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna)\
-[https://bc.paranorm.pro/](https://bc.paranorm.pro/)\
 [AlxVoy ⚡ ANODE.TEAM Statesync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync)\
 [https://anode.team/BitCanna/#State-Sync](https://anode.team/BitCanna/#State-Sync)\
 [https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Bitcanna)\
@@ -88,7 +86,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md](https://github.com/konsortech/Node/blob/main/Mainnet/Bitcanna/statesync.md)\
 [https://app.nodejumper.io/bitcanna/sync](https://app.nodejumper.io/bitcanna/sync)\
 [https://chain-services.l0vd.com/mainnets/bitcanna/state-sync](https://chain-services.l0vd.com/mainnets/bitcanna/state-sync)\
-[https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna](https://github.com/obajay/StateSync-snapshots/tree/main/Projects/Bitcanna)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
 [https://services.kjinc.io/mainnet-service/bitcanna/statesync](https://services.kjinc.io/mainnet-service/bitcanna/statesync)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/statesync)\
