@@ -6,7 +6,7 @@ description: >-
 
 # Available tools
 
-This page is synchronized with the corresponding documents on Github. When [the file on Github](available-tools.md) changes or [here on Gitbook](https://docs.bitcanna.io/tools/available-tools), it will be synced to ensure both documents show the same content. Validators who offer tools are requested to put in their services in [the file on Github](available-tools.md), while respecting the formatting to keep it nice and tidy.
+This page is synchronized with the corresponding documents on Github. When [the file on Github](`https://github.com/BitCannaGlobal/docs/blob/main/tools/available-tools.md`) changes or [here on Gitbook](https://docs.bitcanna.io/tools/available-tools), it will be synced to ensure both documents show the same content. Validators who offer tools are requested to put in their services in [the file on Github](`https://github.com/BitCannaGlobal/docs/blob/main/tools/available-tools.md`), while respecting the formatting to keep it nice and tidy.
 
 ### Wallet
 
