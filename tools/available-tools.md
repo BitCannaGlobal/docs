@@ -22,7 +22,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [AlxVoy ⚡ ANODE.TEAM Wallet](https://main.anode.team/bitcanna/staking)\
 [🔥STAVR🔥 Wallet](https://explorer.stavr.tech/Bitcanna/staking)\
 [https://t.me/stakewolleWallet\_bot](https://t.me/stakewolleWallet\_bot)\
-[NODEXPLORER](https://explorer.nodex.one/bitcanna/staking)
+[NODEXPLORER](https://explorer.nodex.one/bitcanna/staking)\
+[NodesHub Wallet](https://explorer.nodeshub.online/bitcanna)
 
 ### Mobile Wallet
 
@@ -45,7 +46,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [AlxVoy ⚡ ANODE.TEAM Explorer](https://main.anode.team/bitcanna)\
 [🦊 The Silver Fox Explorer](https://explorer.thesilverfox.pro/bitcanna)\
 [NODEXPLORER](https://explorer.nodex.one/bitcanna/) [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-mainnet)\
-[https://explorer.kalia.network/bitcanna](https://explorer.kalia.network/bitcanna)
+[https://explorer.kalia.network/bitcanna](https://explorer.kalia.network/bitcanna)\
+[NodesHub Explorer](https://explorer.nodeshub.online/bitcanna)
 
 ### Snapshot
 
@@ -67,7 +69,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
 [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/snapshot)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)\
-[https://bluestake.net/bitcanna/snapshots](https://bluestake.net/bitcanna/snapshots/)
+[https://bluestake.net/bitcanna/snapshots](https://bluestake.net/bitcanna/snapshots/)\
+[https://files.nodeshub.online/mainnet/bitcanna/snapshot/](https://files.nodeshub.online/mainnet/bitcanna/snapshot/)
 
 ### Statesync
 
@@ -94,7 +97,8 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://docs.nodex.one/networks/mainnet/bitcanna/statesync](https://docs.nodex.one/networks/mainnet/bitcanna/statesync)\
 [https://safeblock.space/bitcanna-statesync](https://safeblock.space/bitcanna-statesync)\
 [https://docs.kalia.network/mainnet/bitcanna/statesync](https://docs.kalia.network/mainnet/bitcanna/statesync)\
-[https://bluestake.net/bitcanna/statesync](https://bluestake.net/bitcanna/statesync/)
+[https://bluestake.net/bitcanna/statesync](https://bluestake.net/bitcanna/statesync/)\
+[https://services.nodeshub.online/mainnet-networks/bitcanna/state-sync](https://services.nodeshub.online/mainnet-networks/bitcanna/state-sync)
 
 ### RPC Node
 
@@ -126,7 +130,10 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Blockchain CLI commands          | [https://indonode.net/services/mainnet/bitcanna/cheatsheet](https://indonode.net/services/mainnet/bitcanna/cheatsheet)                                                                                                                                                                                                                          |
 | Blockchain CLI commands          | [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)                                                                                                                                                                                                                                  |
 | Blockchain CLI commands          | [https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/commands](https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/commands)                                                                                                                                                                                                  |
-| Blockchain CLI commands          | [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/cheatsheet](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/cheatsheet)                                                                                                                                                                                                              |
+| Blockchain CLI commands          | [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/cheatsheet](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/cheatsheet)
+                                                                                                       |
+| Blockchain CLI commands          | [https://services.nodeshub.online/mainnet-networks/bitcanna/useful-commands](https://services.nodeshub.online/mainnet-networks/bitcanna/useful-commands)
+                                                                                                       |
 | Validator status monitoring      | [https://t.me/StatusValidatorBot](https://t.me/StatusValidatorBot)                                                                                                                                                                                                                                                                              |
 | Validator monitoring             | [https://discord.com/channels/805725188355260436/928210028089991228](https://discord.com/channels/805725188355260436/928210028089991228)                                                                                                                                                                                                        |
 | Validator monitoring             | [https://chain-services.l0vd.com/mainnets/bitcanna/monitoring](https://chain-services.l0vd.com/mainnets/bitcanna/monitoring)                                                                                                                                                                                                                    |
@@ -149,11 +156,13 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Node / validator setup guide     | [https://safeblock.space/bitcanna](https://safeblock.space/bitcanna)                                                                                                                                                                                                                                                                            |
 | Node / validator setup guide     | [https://github.com/hexskrt/mainnet/tree/main/Bitcanna](https://github.com/hexskrt/mainnet/tree/main/Bitcanna)                                                                                                                                                                                                                                  |
 | Node / validator setup guide     | [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/installation](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/installation)                                                                                                                                                                                                          |
+| Node / validator setup guide     | [https://services.nodeshub.online/mainnet-networks/bitcanna/installation]([https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/installation](https://services.nodeshub.online/mainnet-networks/bitcanna/installation))                                                                                                                         |
 | Upgrade guide                    | [https://services.kjnodes.com/mainnet/bitcanna/upgrade/](https://services.kjnodes.com/mainnet/bitcanna/upgrade/)                                                                                                                                                                                                                                |
 | Upgrade guide                    | [https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update](https://nodeservice.nodersteam.com/title/mainnet/bitcanna/last-update)                                                                                                                                                                                                  |
 | Upgrade guide                    | [https://indonode.net/services/mainnet/bitcanna/upgrade#guide](https://indonode.net/services/mainnet/bitcanna/upgrade#guide)                                                                                                                                                                                                                    |
 | Upgrade guide                    | [https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/upgrade](https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/upgrade)                                                                                                                                                                                                    |
 | Upgrade guide                    | [https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/upgrade](https://makima-services.sxlmnwb.xyz/mainnet/bitcanna/upgrade)                                                                                                                                                                                                                    |
+| Upgrade guide                    | [https://services.nodeshub.online/mainnet-networks/bitcanna/upgrade](https://services.nodeshub.online/mainnet-networks/bitcanna/upgrade)                                                                                                                                                                                                        |
 | Validator Setup                  | [https://docs.nodex.one/networks/mainnet/bitcanna/install](https://docs.nodex.one/networks/mainnet/bitcanna/install)                                                                                                                                                                                                                            |
 | Validator Upgrade                | [https://docs.nodex.one/networks/mainnet/bitcanna/upgrade](https://docs.nodex.one/networks/mainnet/bitcanna/upgrade)                                                                                                                                                                                                                            |
 
@@ -172,12 +181,14 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Explorer                     | [L0vd.com ❤️ Explorer](https://explorers.l0vd.com/bitcanna-testnet)                                                                                                                        |
 | Explorer                     | [🦊 The Silver Fox Testnet Explorer](https://testnet.explorer.thesilverfox.pro/bitcanna)                                                                                                   |
 | Explorer                     | [https://explorer.kalia.network/testnet-bitcanna/](https://explorer.kalia.network/testnet-bitcanna/)                                                                                       |
+| Explorer                     | [NodesHub Testnet Explorer](https://explorer.testnet.nodeshub.online/bitcanna)                                                                                                             |
 | Snapshot service             | [https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html](https://aviaone.com/blockchains-service/bitcanna-testnet-bitcanna-dev-1.html)                               |
 | Snapshot service             | [https://services.kjnodes.com/testnet/bitcanna/snapshot](https://services.kjnodes.com/testnet/bitcanna/snapshot)                                                                           |
 | Snapshot service             | [https://app.nodejumper.io/bitcanna-testnet/sync#snapshot](https://app.nodejumper.io/bitcanna-testnet/sync#snapshot)                                                                       |
 | Snapshot service             | [https://services.kjinc.io/testnet-service/bitcanna/snapshot](https://services.kjinc.io/testnet-service/bitcanna/snapshot)                                                                 |
 | Snapshot service             | [https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/statesync-snapshot](https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/statesync-snapshot)                         |
 | Snapshot service             | [https://bluestake.net/bitcanna/testnet/snapshots](https://bluestake.net/bitcanna/testnet/snapshots)                                                                                       |
+| Snapshot service             | [https://services.nodeshub.online/testnet-networks/bitcanna/snapshot](https://services.nodeshub.online/testnet-networks/bitcanna/snapshot)                                                 |
 | Statesync                    | [https://docs.nodex.one/networks/testnet/bitcanna/statesync](https://docs.nodex.one/networks/testnet/bitcanna/statesync)                                                                   |
 | Statesync                    | [https://services.kjnodes.com/testnet/bitcanna/state-sync](https://services.kjnodes.com/testnet/bitcanna/state-sync)                                                                       |
 | Statesync                    | [https://github.com/hexskrt/testnet\_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet\_installation/tree/main/Bitcanna)                                                 |
@@ -191,6 +202,7 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Statesync                    | [https://docs.konsortech.xyz/node/Testnet/Bitcanna/statesync](https://docs.konsortech.xyz/node/Testnet/Bitcanna/statesync)                                                                 |
 | Statesync                    | [https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Testnet/Bitcanna](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Testnet/Bitcanna)         |
 | Statesync                    | [https://bluestake.net/bitcanna/testnet/statesync](https://bluestake.net/bitcanna/testnet/statesync)                                                                                       |
+| Statesync                    | [https://services.nodeshub.online/testnet-networks/bitcanna/state-sync](https://services.nodeshub.online/testnet-networks/bitcanna/state-sync)                                             |
 | RPC, GRPC, API               | [https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) |
 | Persistent peers             | [https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) |
 | Seednodes                    | [https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json](https://github.com/BitCannaGlobal/bcna/blob/main/devnets/bitcanna-dev-1/chain-registry.json) |
@@ -204,12 +216,15 @@ Find RPC Nodes here: [https://github.com/cosmos/chain-registry/blob/master/bitca
 | Node / validator setup guide | [https://app.nodejumper.io/bitcanna-testnet/installation](https://app.nodejumper.io/bitcanna-testnet/installation)                                                                         |
 | Node / validator setup guide | [https://chain-services.l0vd.com/testnets/bitcanna/installation-guide](https://chain-services.l0vd.com/testnets/bitcanna/installation-guide)                                               |
 | Node / validator setup guide | [https://docs.nodex.one/networks/testnet/bitcanna/install](https://docs.nodex.one/networks/testnet/bitcanna/install)                                                                       |
+| Node / validator setup guide | [https://services.nodeshub.online/testnet-networks/bitcanna/installation](https://services.nodeshub.online/testnet-networks/bitcanna/installation)                                         |
 | Node upgrade instructions    | [https://services.kjnodes.com/testnet/bitcanna/upgrade](https://services.kjnodes.com/testnet/bitcanna/upgrade)                                                                             |
 | Node upgrade instructions    | [https://app.nodejumper.io/bitcanna-testnet/upgrade](https://app.nodejumper.io/bitcanna-testnet/upgrade)                                                                                   |
+| Node upgrade instructions    | [https://services.nodeshub.online/testnet-networks/bitcanna/upgrade](https://services.nodeshub.online/testnet-networks/bitcanna/upgrade)                                                   |
 | Blockchain CLI commands      | [https://services.kjnodes.com/testnet/bitcanna/useful-commands](https://services.kjnodes.com/testnet/bitcanna/useful-commands)                                                             |
 | Blockchain CLI commands      | [https://github.com/hexskrt/testnet\_installation/tree/main/Bitcanna](https://github.com/hexskrt/testnet\_installation/tree/main/Bitcanna)                                                 |
 | Blockchain CLI commands      | [https://app.nodejumper.io/bitcanna-testnet/cheat-sheet](https://app.nodejumper.io/bitcanna-testnet/cheat-sheet)                                                                           |
 | Blockchain CLI commands      | [https://chain-services.l0vd.com/testnets/bitcanna/useful-commands](https://chain-services.l0vd.com/testnets/bitcanna/useful-commands)                                                     |
 | Blockchain CLI commands      | [https://genznodes.dev/testnet\_services/#bitcanna](https://genznodes.dev/testnet\_services/#bitcanna)                                                                                     |
 | Blockchain CLI commands      | [CLI commands by 🔥STAVR🔥](https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/commands)                                                                                         |
+| Blockchain CLI commands      | [Cli Guide By Nodeshub](https://services.nodeshub.online/testnet-networks/bitcanna/useful-commands)                                                                                        |
 | Public RPC Scanner           | [https://docs.nodex.one/networks/testnet/bitcanna/public-rpc](https://docs.nodex.one/networks/testnet/bitcanna/public-rpc)                                                                 |
