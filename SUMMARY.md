@@ -21,7 +21,6 @@
 
 * [Acquire BCNA Guides](guides/acquire-bcna-guides.md)
 * [Setup Wallet Guides](guides/setup-wallet-guides.md)
-* [Pay with BitCanna Guides](guides/pay-with-bitcanna-guides.md)
 * [Validator Setup Guide](guides/validator-setup-guide.md)
 
 ## Useful links
