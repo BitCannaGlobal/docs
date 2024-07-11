@@ -1,41 +1,50 @@
 ---
 description: >-
-  BitCanna will provide a decentralized payment network and supply chain for the
-  legal cannabis industry. On this website, you'll currently find everything
-  related to our blockchain network.
+  Years ago the cannabis industry faced significant challenges with online
+  payment processing and obtaining credit. BitCanna was created to address these
+  issues by providing a dedicated payment solution
 ---
 
-# Introduction
+# Introduction to BitCanna v3.0
 
-## Payments
+## Cannabis Community
 
-The global cannabis industry and related businesses continue to face regulatory restrictions, despite rapidly emerging legal markets and widespread acceptance of medical and recreational cannabis.
+Both the cannabis and cryptocurrency landscapes have evolved. A crypto payment solution is no longer essential for the legal cannabis industry. Our technology is in place and operational; we have developed wallets and created CosmosPay as an open gateway, establishing ourselves as a reference within the Cosmos Ecosystem. Now, our aim is to grow and expand into the non-crypto world as well.
 
-Although progress has been made in updating the stereotypical image of cannabis consumers, the products, and the industry, significant gate-keeping remains. Organisations from banks to credit card companies, payment providers, and even review platforms are declining a legitimate and thriving industry.
+## New tokenomics strategy
 
-### BitCanna Pay
+We recognize that the tokenomics model we adopted when transitioning to the Cosmos Ecosystem is not sustainable indefinitely and represented a significant departure from our previous deflationary model. Our strategy now focuses on decentralizing nodes, curbing inflation, and enhancing the value of the currently issued tokens. The implementation of the burn module and the daily token burn are key components of this approach, as they help manage token supply and support our new economic model.
 
-Offering customers and organisations a secure, all-inclusive payment system, BitCanna Pay cuts out the middlemen. We’re transitioning responsibility away from banks to the end-consumer, all thanks to BitCanna’s blockchain network.
+## In the way to decentralization
 
-## Supply Chain - Quality and Legitimacy
+We agreed with our main investors to spin-off 4 of their validators to promote a healthier ecosystem and decentralization.&#x20;
 
-Cannabis-related industries hold themselves to the highest standards on both their products and processes. Nevertheless their practices are often questioned by those on the outside.&#x20;
+These changes will clearly impact decentralization and ensure a fairer distribution of rewards among professional validators. The 8 million unbonded tokens from validators will be locked (vested) for five years and delegated at the discretion of investors. We are also considering reducing the validator set from 100 to 75, and potentially further down to 50. These measures will promote a healthier ecosystem and enhance decentralization within BitCanna.
 
-The industry is ready to take the lead and show just the thing that sets them apart from the competition, which is the quality and origins of their products and their processes. Proving their legitimacy like any else. Doing so will leave no room for a shady image.
+## Web3 Game and NFTs
 
-### BitCanna Trail
+What new features or functionalities can users expect from BitCanna’s revamped ecosystem focused on gaming and NFTs? Users can expect a true Web3 experience with no usernames, passwords, or emails  "your keys, your coins”. It will be incredible to see transactions flow seamlessly from the game to the user and vice versa, all recorded on smart contracts on our blockchain. There will be different actors or user roles, one of which will be the NFT token holder, though we still need to define these roles.
 
-Serving as proof of quality and legitimacy, BitCanna Trail records a product’s origins, handlers and production process. At every link in the supply chain, data is automatically submitted to the BitCanna blockchain. By using decentralised blockchain technology, an always-available database offers complete transparency and is unchangeable by any party involved.
+### About the Web3 Game
 
-## Trust and Reputation
+We are going to start with “BitCanna Farmer,” where you can experience the two worlds we love most: cannabis and cryptocurrencies. The future is uncertain, who knows? If we succeed, we might even develop a Web3 card game featuring our NFTs!
 
-Cannabis-related businesses are regularly denied access to traditional review platforms. Combined with the growing issue of fake reviews, today’s businesses need an alternative solution that doesn’t inhibit a company’s credibility or review integrity.
+BitCanna Buddheads will have certain advantages over other roles; that’s the idea. Other roles we are considering include those related to marketing campaigns from our investors, users within the Cosmos ecosystem, and more.
 
-### BitCanna Trust
+### The past, the present and the future of Buddheads NFTs
 
-The BitCanna network serves as an all-inclusive platform for honest and legitimate reviews. Every order completed with BCNA coins has its transaction details, in so-called ‘hashes’, submitted to the BitCanna blockchain. Using this unique hash, consumers can verify their purchase and its origins in the supply chain.
+We wanted to create a stoned Buddy character that would be part of the Cosmos ecosystem and also a fan of our major investors. Thus, the BitCanna Buddheads were born, featuring references to famous logos and crazy accessories. This [RQS article](https://www.royalqueenseeds.com/uk/blog-cannabis-and-nfts-what-does-the-future-hold-n1479) provides a general overview of the relationship between Cannabis and NFTs.
 
-This unique hash means consumers can write honest, genuine reviews on products or services they actually use.
+we aim to add real value to the NFTs, enabling holders to do tangible things with them. In the future, we would like to use them not only within the game but also as access keys for discounts and other perks.
+
+## Grow Program: why it is important?
+
+We can distinguish between two main components of the GROW Program: the “Developers Program” and the “Marketing Program.”
+
+* **Developers Program:** This is focused on creating decentralized applications (dApps). It allows developers to receive grants and rewards for their work, encouraging innovation and development within our ecosystem.
+* **Marketing Program:** This aims at developing marketing strategies to boost the game, NFTs, and other related initiatives. It focuses on expanding our reach and engaging the community effectively.
+
+Users can participate by joining the respective programs based on their skills and interests, whether it be through developing dApps or contributing to marketing efforts.
 
 
 

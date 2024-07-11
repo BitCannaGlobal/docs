@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction to BitCanna v3.0](README.md)
 
 ## 🤓 Concepts & Terminology
 
