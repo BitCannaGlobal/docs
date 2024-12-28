@@ -65,7 +65,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 [https://chain-services.l0vd.com/mainnets/bitcanna/snapshot](https://chain-services.l0vd.com/mainnets/bitcanna/snapshot)\
 [https://docs.kalia.network/mainnet/bitcanna/snapshot](https://docs.kalia.network/mainnet/bitcanna/snapshot)\
 [https://mms.team/portfolios/bitcanna-snapshot-service/](https://mms.team/portfolios/bitcanna-snapshot-service/)\
-[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#snapshot)\
 [https://safeblock.space/bitcanna-snapshot-setup](https://safeblock.space/bitcanna-snapshot-setup)\
 [https://docs.nodex.one/networks/mainnet/bitcanna/snapshot](https://docs.nodex.one/networks/mainnet/bitcanna/snapshot)\
 [https://bluestake.net/bitcanna/snapshots](https://bluestake.net/bitcanna/snapshots/)\
@@ -73,7 +72,6 @@ This page is synchronized with the corresponding documents on Github. When [the 
 
 ### Statesync
 
-[https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync](https://docs.panthea.eu/cosmos-blockchains/bitcanna-bcna#state-sync)\
 [https://polkachu.com/state\_sync/bitcanna](https://polkachu.com/state\_sync/bitcanna)\
 [AlxVoy ⚡ ANODE.TEAM Statesync](https://github.com/Voynitskiy/Voynitskiy/blob/main/mainnet/BitCanna/README.md#state-sync)\
 [🔥STAVR🔥 Statesync](https://stavr-team.gitbook.io/nodes-guides/mainnets/bitcanna/statesync-snapshot)\
